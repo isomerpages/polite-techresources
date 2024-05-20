@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: ""
       - email: askpolite@np.edu.sg
-      - other: '<br><iframe style="width: 300%; height: 2000px"
+      - other: '<br><iframe style="width: 250%; height: 2000px"
           src="https://form.gov.sg/664af5e05da410126003303a"
           id="iframe"></iframe>  <div style="font-family:
           Sans-Serif;     font-size: 12px;     color: #999;     opacity:
