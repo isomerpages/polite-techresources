@@ -35,4 +35,5 @@ sections:
       button: View all expertise
       url: www.np.edu.sg
       alt: Image alt text
+      image: /images/businessman_working_futuristic_office_2.jpg
 ---
