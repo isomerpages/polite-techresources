@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: POLITE Tech Resource Hub
+title: POLITE Tech Resources
 description: An Isomer site of the Singapore Government
 image: /images/Asset_3.png
 permalink: /
