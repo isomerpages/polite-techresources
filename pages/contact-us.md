@@ -5,20 +5,20 @@ permalink: /contact-us/
 agency_name: POLITE
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 535 Clementi Road
+      - ""
+      - Singapore 599489
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 5.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: ""
-    title: Main Office
+    maps_link: https://maps.app.goo.gl/rqv9YdzYNrBrWfBHA
+    title: Ngee Ann Polytechnic
 contacts:
   - content:
-      - phone: +65 6123 4567
+      - phone: ""
       - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - other: ""
+    title: General Enquiries
 feedback: ""
 ---
