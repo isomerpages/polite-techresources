@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing_page_background.png
+      background: /images/landing_page_hero_2.png
       url: /contact-us/
       variant: center
   - infopic:
