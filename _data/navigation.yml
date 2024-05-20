@@ -2,9 +2,11 @@ logo: /images/New_TRH_logo.png
 links:
   - title: About POLITE
     url: /about-polite/
-  - title: Tech Facilities
+  - title: Facilities
     url: /permalink
-  - title: Tech Equipment
+  - title: Equipment
     url: /example-page/
+  - title: Expertise
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
