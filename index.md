@@ -20,10 +20,11 @@ sections:
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Tech Equipment
+      subtitle: POLITE
       id: infopic
-      description: Infopic description
-      button: Button Text
+      button: View all equipment
       alt: Image alt text
+      url: www.np.edu.sg
+      image: /images/vr_headset_by_computer_gaming_technology_copy.jpg
 ---
