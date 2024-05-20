@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d31l0giznljb3b.amplifyapp.com
 prod: https://master.d2bpiwhpqa1n5c.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/New_TRH_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
