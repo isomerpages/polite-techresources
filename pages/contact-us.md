@@ -17,8 +17,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: enquiries@abc.gov.sg
-      - other: https://shorturl.at/1cLg4
-    title: General Enquiries
+      - email: ""
+      - other: ""
+    title: https://shorturl.at/1cLg4
 feedback: ""
 ---
