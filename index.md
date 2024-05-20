@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: POLITE Technology Resource Hub
-      subtitle: Empowering Education with Cutting-Edge Tech Resources
-      background: /images/technology_circle_blue_background_digital_transformation_concept.jpg
+      background: /images/lnding_background.jpg
       url: /contact-us/
+      variant: center
   - infopic:
       title: Tech Facilities
       subtitle: POLITE
