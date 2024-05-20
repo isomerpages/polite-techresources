@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: https://shorturl.at/1cLg4
+      - other: https://shorturl.at/1cLg4
+    title: General Enquiries
 feedback: ""
 ---
