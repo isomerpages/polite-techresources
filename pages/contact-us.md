@@ -17,8 +17,8 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: ""
-      - other: https://shorturl.at/1cLg4
+      - email: askpolite@np.edu.sg
+      - other: https://tinyurl.com/politetech
     title: General Enquiries
 feedback: ""
 ---
