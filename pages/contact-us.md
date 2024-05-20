@@ -18,7 +18,12 @@ contacts:
   - content:
       - phone: ""
       - email: askpolite@np.edu.sg
-      - other: https://tinyurl.com/politetech
+      - other: '  <iframe style="width: 300%; height: 2000px"
+          src="https://form.gov.sg/664af5e05da410126003303a"
+          id="iframe"></iframe>  <div style="font-family:
+          Sans-Serif;     font-size: 12px;     color: #999;     opacity:
+          0.5;     padding-top: 5px;">   Powered by <a style="color: #999"
+          href="https://form.gov.sg">Form</a> </div>'
     title: General Enquiries
 feedback: ""
 ---
