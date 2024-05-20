@@ -7,9 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/landing_page_hero_3.png
+      background: /images/62005__Converted_.jpg
       url: /contact-us/
       variant: center
+      title: POLITE's Tech Resource Hub
+      subtitle: Empowering Education with Cutting-Edge Technology
   - infopic:
       title: Tech Facilities
       subtitle: POLITE
