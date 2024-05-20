@@ -4,7 +4,8 @@ permalink: /facilities/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Here is a list of tech facility resources available for colleagues across
+the higher institutes to utilise.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Facility 1" src="/images/modern_data_center_providing_cloud_services_enabling_businesses_access_computing_resources_storage_demand_internet_server_room_infrastructure_3d_render_animation.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Center</div><div class="isomer-card-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div><div class="isomer-card-link">View more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
