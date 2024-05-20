@@ -8,17 +8,14 @@ locations:
       - 535 Clementi Road
       - ""
       - Singapore 599489
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 5.00pm
-        description: Closed on Weekends and Public Holidays
+    operating_hours: []
     maps_link: https://maps.app.goo.gl/rqv9YdzYNrBrWfBHA
     title: Ngee Ann Polytechnic
 contacts:
   - content:
       - phone: ""
       - email: askpolite@np.edu.sg
-      - other: '  <iframe style="width: 300%; height: 2000px"
+      - other: '<br><iframe style="width: 300%; height: 2000px"
           src="https://form.gov.sg/664af5e05da410126003303a"
           id="iframe"></iframe>  <div style="font-family:
           Sans-Serif;     font-size: 12px;     color: #999;     opacity:
