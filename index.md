@@ -28,4 +28,11 @@ sections:
       alt: Image alt text
       url: www.np.edu.sg
       image: /images/vr_headset_by_computer_gaming_technology_copy.jpg
+  - infopic:
+      title: Tech Expertise
+      subtitle: POLITE
+      id: infopic
+      button: View all expertise
+      url: www.np.edu.sg
+      alt: Image alt text
 ---
