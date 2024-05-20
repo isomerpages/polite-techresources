@@ -10,7 +10,7 @@ sections:
       background: /images/62005__Converted_.jpg
       url: /contact-us/
       variant: center
-      title: POLITE's Tech Resource Hub
+      title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
   - infopic:
       title: Tech Facilities
