@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: POLITEch Resource Hub
+      title: POLITE Tech Resource Hub
       subtitle: Empowering Education with Cutting-Edge Tech Resources
       background: /images/3409390.jpg
       url: /contact-us/
