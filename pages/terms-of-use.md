@@ -4,9 +4,6 @@ permalink: /terms-of-use/
 variant: markdown
 ---
 
-TERMS OF USE
-============
-
 Nanyang Polytechnic, Ngee Ann Polytechnic, Republic Polytechnic, Singapore Polytechnic, Temasek Polytechnic and Institute of Technical Education (collectively known as the “**POLITE**”, “**we**”, “**our**” or “**us**”) own and maintain https://politemall.polite.edu.sg/ (the “Digital Service”) as a service to our students, staff and members of the public. We invite you to visit this Digital Service often and to browse through our pages. You may also download and copy materials for your personal or educational, non-commercial use, but please do note the Terms of Use as stated below.
 
 These Terms of Use are agreed to and accepted by and shall bind you. By accessing and using the service on this Digital Service, namely, the POLITEch Resource Hub (the “**Service**”), you (or, if you are a parent/guardian of a child under age eighteen (18) using this Digital Service, your child) shall be deemed to have accepted to be legally bound by these Terms of Use and our Privacy Statement, incorporated herein by reference. If you do not agree to these Terms of Use, please do not use the Service. If you are the parent/guardian of a child under age eighteen (18) using the Service and you do not agree to these Terms of Use, please do not allow your child/ward to access or use the Service. Any continued use of the Service at any time will imply that you have accepted these Terms of Use.
