@@ -17,7 +17,7 @@ sections:
       subtitle: POLITE
       id: infopic
       button: View all facilities
-      url: https://techresources.polite.edu.sg/facilities/
+      url: /facilities/
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
   - infopic:
