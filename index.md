@@ -14,7 +14,7 @@ sections:
       subtitle: Empowering Education with Cutting-Edge Technology
   - infopic:
       title: Tech Facilities
-      subtitle: POLITE
+      subtitle: Discover
       id: infopic
       button: View all facilities
       url: /facilities/
@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Tech Equipment
-      subtitle: POLITE
+      subtitle: Explore
       id: infopic
       button: View all equipment
       alt: Image alt text
@@ -30,7 +30,7 @@ sections:
       image: /images/vr_headset_by_computer_gaming_technology_copy.jpg
   - infopic:
       title: Tech Expertise
-      subtitle: POLITE
+      subtitle: Capable
       id: infopic
       button: View all expertise
       url: www.np.edu.sg
