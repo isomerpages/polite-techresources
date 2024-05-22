@@ -18,6 +18,6 @@ description: ""
 study with the ultimate goal of developing effective treatments and cures.</div>
 <div class="isomer-card-link">asknyp@nyp.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="engineering" src="/images/computer_screens_running_programming_code_empty_software_developing_agency_office_computers_parsing_data_algorithms_background_neural_network_servers_cloud_computing_data_room.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering Hub: ITE Ang Mo kio (Central)</div><div class="isomer-card-description">Gain insight into trackside engineering, and giving guidance on how to tackle several challenges brought about by the world’s first all-electric single-seater championship.</div><div class="isomer-card-link">enquiries@ite.edu.sg</div></div></a>
 </div>
 <p></p>
