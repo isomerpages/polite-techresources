@@ -19,7 +19,7 @@ variety of environments. Provide guidance on which plants work best in
 specific environments.</div>
 <div class="isomer-card-link">Email: rachel_lin@tp.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Energy management" src="/images/Energy_Manager.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Energy Management: Ngee Ann Polytechnic</div><div class="isomer-card-description">Server Cooling System for Data Centres. Energy Saving Technology for Centrally Cooled Buildings. Intelligent Remote Monitoring for Urban Solutions</div><div class="isomer-card-link">Email: Peter_Chuah@np.edu.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Energy management" src="/images/Energy_Manager.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Energy Management: Ngee Ann Polytechnic</div><div class="isomer-card-description">Server Cooling System for Data Centres. Energy Saving Technology for Centrally Cooled Buildings. Intelligent Remote Monitoring for Urban Solutions</div><div class="isomer-card-link">Email: peter_chuah@np.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -32,7 +32,7 @@ specific environments.</div>
 solution. Designing or redesigning/adapting mechanical devices. Develop
 and test mechanical prototypes, changing designs based on testing results.
 Oversee manufacturing processes.</div>
-<div class="isomer-card-link">Email: Tony_goh@ite.edu.sg</div>
+<div class="isomer-card-link">Email: tony_goh@ite.edu.sg</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chemical Scientist" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chemist: Nayang Polytechnic</div><div class="isomer-card-description">Perform research and experiments to create and improve products, such as pharmaceutical drugs and plastics. They also analyze and test products to determine their composition and concentration of elements.</div><div class="isomer-card-link">Email: Kai_xuan@nyp.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
