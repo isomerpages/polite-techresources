@@ -33,7 +33,7 @@ sections:
       subtitle: Capable
       id: infopic
       button: View all expertise
-      url: www.np.edu.sg
+      url: /tech-expertise/
       alt: Image alt text
       image: /images/businessman_working_futuristic_office_2.jpg
 ---
