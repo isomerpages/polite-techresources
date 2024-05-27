@@ -2,7 +2,7 @@
 layout: homepage
 title: POLITE Tech Resources
 description: An Isomer site of the Singapore Government
-image: /images/Asset_3.png
+image: /images/favicon_2.png
 permalink: /
 notification: ""
 sections:
