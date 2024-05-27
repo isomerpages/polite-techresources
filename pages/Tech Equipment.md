@@ -13,7 +13,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Projector for projection Mapping: Ngee Ann Polytechnic</div>
+<div class="isomer-card-title">Projector for projection Mapping: ITE</div>
 <div class="isomer-card-description">To achieve successful projection mapping, you need a specialized projector
 that meets specific requirements. Here are some key features to consider
 when choosing a projector for projection mapping.</div>
