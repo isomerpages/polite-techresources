@@ -1,6 +1,6 @@
 title: POLITE Tech Resources
 url: https://techresources.polite.edu.sg
-favicon: /images/Asset_3.png
+favicon: /images/favicon_2.png
 colors:
   primary-color: "#200055"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d31l0giznljb3b.amplifyapp.com
 prod: https://master.d2bpiwhpqa1n5c.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Asset_3.png
+shareicon: /images/favicon_2.png
 is_government: false
 google_analytics_ga4: G-ZEG0WRKN4L
 linkedin-insights: ""
