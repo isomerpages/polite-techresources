@@ -34,6 +34,20 @@ and test mechanical prototypes, changing designs based on testing results.
 Oversee manufacturing processes.</div>
 <div class="isomer-card-link">Email: Tony_goh@ite.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chemical Scientist" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chemist: Nayang Polytechnic</div><div class="isomer-card-description">Perform research and experiments to create and improve products, such as pharmaceutical drugs and plastics. They also analyze and test products to determine their composition and concentration of elements.</div><div class="isomer-card-link">Kai_xuan@nyp.edu.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chemical Scientist" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chemist: Nayang Polytechnic</div><div class="isomer-card-description">Perform research and experiments to create and improve products, such as pharmaceutical drugs and plastics. They also analyze and test products to determine their composition and concentration of elements.</div><div class="isomer-card-link">Email: Kai_xuan@nyp.edu.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Developer" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Developer: Ngee Ann Polytechnic</div>
+<div class="isomer-card-description">Designing, testing, and building software programs to meet user needs
+Creating models and diagrams that outline the code needed to develop software
+and applications Performing maintenance and testing to keep software functioning</div>
+<div class="isomer-card-link">Email: chua.chee.keong@np.edu.sg</div>
+</div>
+</a>
 </div>
 <p></p>
