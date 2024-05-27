@@ -38,7 +38,7 @@ Oversee manufacturing processes.</div>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Developer" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Developer" src="/images/tech_developer.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
