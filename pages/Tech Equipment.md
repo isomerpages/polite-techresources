@@ -19,7 +19,7 @@ that meets specific requirements. Here are some key features to consider
 when choosing a projector for projection mapping.</div>
 <div class="isomer-card-link">askpolite@np.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AR/VR" src="/images/vr_headset_by_computer_gaming_technology_copy.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AR/VR Headset: Temasek Polytechnic</div><div class="isomer-card-description">The latest VR headset from Meta to hit the market is one that many users have been anticipating. Meta's Quest 3 succeeds its most popular VR headset ever, the Quest 2, with improvements in virtually all places.</div><div class="isomer-card-link">askpolite@np.edu.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AR/VR" src="/images/AR_VR_Headset_01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AR/VR Headset: Temasek Polytechnic</div><div class="isomer-card-description">The latest VR headset from Meta to hit the market is one that many users have been anticipating. Meta's Quest 3 succeeds its most popular VR headset ever, the Quest 2, with improvements in virtually all places.</div><div class="isomer-card-link">askpolite@np.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
