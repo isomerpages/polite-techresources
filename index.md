@@ -26,7 +26,7 @@ sections:
       id: infopic
       button: View all equipment
       alt: Image alt text
-      url: www.np.edu.sg
+      url: /tech-equipment/
       image: /images/vr_headset_by_computer_gaming_technology_copy.jpg
   - infopic:
       title: Tech Expertise
