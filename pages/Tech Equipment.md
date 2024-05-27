@@ -9,7 +9,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Projection mapping projector" src="/images/projector.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Projection mapping projector" src="/images/projector_4_01.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -23,7 +23,7 @@ when choosing a projector for projection mapping.</div>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CNC Router and engraving" src="/images/CNC_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CNC Router and engraving" src="/images/water_analyzer_2_01.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
