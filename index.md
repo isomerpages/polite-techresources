@@ -27,7 +27,7 @@ sections:
       button: View all equipment
       alt: Image alt text
       url: /tech-equipment/
-      image: /images/vr_headset_by_computer_gaming_technology_copy.jpg
+      image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
   - infopic:
       title: Tech Expertise
       subtitle: Capable
