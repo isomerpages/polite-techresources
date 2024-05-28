@@ -27,7 +27,7 @@ when choosing a projector for projection mapping.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CNC Router &amp; Engraving Machine: Nanyang Polytechnic</div>
+<div class="isomer-card-title">CNC Router &amp; Engraving Machine: Singapore Polytechnic</div>
 <div class="isomer-card-description">Stable, fast and versatile applicable – this is the RaptorX-SL milling
 machine. The RaptorX-SL is our stable solution for milling solid materials
 like steel and granite.</div>
