@@ -30,7 +30,7 @@ sections:
       image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
   - infopic:
       title: Tech Expertise
-      subtitle: Capable
+      subtitle: Enable
       id: infopic
       button: View all expertise
       url: /tech-expertise/
