@@ -1,32 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: POLITE Tech Resources
+description: An Isomer site of the Singapore Government
+image: /images/favicon_2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/62005__Converted_.jpg
+      url: /contact-us/
+      variant: center
+      title: POLITE Tech Resources
+      subtitle: Empowering Education with Cutting-Edge Technology
+  - infopic:
+      title: Tech Facilities
+      subtitle: Discover
+      id: infopic
+      button: View all facilities
+      url: /facilities/
+      image: /images/factory_with_large_machine_middle.jpg
+      alt: Image alt text
+  - infopic:
+      title: Tech Equipment
+      subtitle: Explore
+      id: infopic
+      button: View all equipment
+      alt: Image alt text
+      url: /tech-equipment/
+      image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
+  - infopic:
+      title: Tech Expertise
+      subtitle: Enable
+      id: infopic
+      button: View all expertise
+      url: /tech-expertise/
+      alt: Image alt text
+      image: /images/businessman_working_futuristic_office_2.jpg
 ---
-

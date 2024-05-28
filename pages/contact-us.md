@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: POLITE
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 535 Clementi Road
+      - ""
+      - Singapore 599489
+    operating_hours: []
+    maps_link: https://maps.app.goo.gl/rqv9YdzYNrBrWfBHA
+    title: Ngee Ann Polytechnic
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: askpolite@np.edu.sg
+      - other: '<br><iframe style="width: 250%; height: 2000px"
+          src="https://form.gov.sg/664af5e05da410126003303a"
+          id="iframe"></iframe>  <div style="font-family:
+          Sans-Serif;     font-size: 12px;     color: #999;     opacity:
+          0.5;     padding-top: 5px;">   Powered by <a style="color: #999"
+          href="https://form.gov.sg">Form</a> </div>'
+    title: General Enquiries
+feedback: ""
 ---
