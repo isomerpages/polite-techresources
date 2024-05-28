@@ -34,7 +34,7 @@ and test mechanical prototypes, changing designs based on testing results.
 Oversee manufacturing processes.</div>
 <div class="isomer-card-link">Email: tony_goh@ite.edu.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chemical Scientist" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chemist: Nayang Polytechnic</div><div class="isomer-card-description">Perform research and experiments to create and improve products, such as pharmaceutical drugs and plastics. They also analyze and test products to determine their composition and concentration of elements.</div><div class="isomer-card-link">Email: Kai_xuan@nyp.edu.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chemical Scientist" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chemist: Singapore Polytechnic</div><div class="isomer-card-description">Perform research and experiments to create and improve products, such as pharmaceutical drugs and plastics. They also analyze and test products to determine their composition and concentration of elements.</div><div class="isomer-card-link">Email: Kai_xuan@sp.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
