@@ -15,7 +15,7 @@ the facility.</p>
 <p><a href="https://builtin.com/articles/tech-companies-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Download the complete list of Tech Facilities here</a>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sp.edu.sg/industry/tie" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Lab" src="/images/steel_chrome_machines_with_shafts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Photonics Lab - Singapore Polytechnic: Physics Center</div><div class="isomer-card-description">The lab focuses on the study and application of photonics, which is the science and technology of generating, controlling, and detecting photons, the particles of light. For enquiries email: enquiries@sp.edu.sg</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sp.edu.sg/industry/tie" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Lab" src="/images/steel_chrome_machines_with_shafts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Photonics Lab - Singapore Polytechnic: Physics Center</div><div class="isomer-card-description">The lab focuses on the study and application of photonics, which is the science and technology of generating, controlling, and detecting photons, the particles of light. (For enquiries: enquiries@sp.edu.sg)</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/research-technology.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -25,10 +25,11 @@ the facility.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Biomedical lab - Temasek Polytechnic: Bio Research Hub</div>
 <div class="isomer-card-description">This research lab utilises biotechnology techniques that biomedical researchers'
-study with the ultimate goal of developing effective treatments and cures.</div>
+study with the ultimate goal of developing effective treatments and cures.
+(For enquiries: chat@tp.edu.sg)</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ite.edu.sg/employers/tdc/tdc-about-us" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="engineering" src="/images/computer_screens_running_programming_code_empty_software_developing_agency_office_computers_parsing_data_algorithms_background_neural_network_servers_cloud_computing_data_room.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering Hub: ITE (Central)</div><div class="isomer-card-description">Gain insight into trackside engineering, and giving guidance on how to tackle several challenges brought about by the world’s first all-electric single-seater championship.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ite.edu.sg/employers/tdc/tdc-about-us" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="engineering" src="/images/computer_screens_running_programming_code_empty_software_developing_agency_office_computers_parsing_data_algorithms_background_neural_network_servers_cloud_computing_data_room.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering Hub: ITE (Central)</div><div class="isomer-card-description">Gain insight into trackside engineering and giving guidance on how to tackle several challenges brought about by the world’s first all-electric single-seater championship. (For enquiries: hello@ite.edu.sg)</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
 <p></p>
