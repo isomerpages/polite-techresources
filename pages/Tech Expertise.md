@@ -54,4 +54,4 @@ and applications Performing maintenance and testing to keep software functioning
 </div>
 </a>
 </div>
-<p></p>
+<p>Download the list of equipment and data sheet</p>
