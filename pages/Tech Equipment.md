@@ -34,13 +34,14 @@ when choosing a projector for projection mapping.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">CNC Router &amp; Engraving Machine: Singapore Polytechnic</div>
+<div class="isomer-card-title">CNC Router &amp; Engraving Machine - Singapore Polytechnic: Manufacturing
+workshop</div>
 <div class="isomer-card-description">Stable, fast and versatile applicable – this is the RaptorX-SL milling
 machine. The RaptorX-SL is our stable solution for milling solid materials
-like steel and granite.</div>
+like steel and granite. For enquiries: enquiries@sp.edu.sg</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sigma" src="/images/chemical_testing_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sigma: Singapore Polytechnic</div><div class="isomer-card-description">Sigma is a NABL certified, ISO 17025 accredited laboratory with advanced solutions for temperature simulation and environmental testing chambers with constant or cyclic temperatures ranging from -80°C to +350°C, using walk-in chambers, smaller chambers, Automated thermal shock testing and more.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sigma" src="/images/chemical_testing_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sigma - Singapore Polytechnic: Environment and Water Technology centre</div><div class="isomer-card-description">Sigma is a NABL certified, ISO 17025 accredited laboratory with advanced solutions for temperature simulation and environmental testing chambers with constant or cyclic temperatures ranging using walk-in chambers, smaller chambers, automated thermal shock testing. For enquiries: enquiries@sp.edu.sg</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -51,7 +52,7 @@ like steel and granite.</div>
 <div class="isomer-card-title">Water Analyzer - Ngee Ann Polytechnic: Centre for Environmental Sustainability</div>
 <div class="isomer-card-description">Handheld and benchtop equipment such as electronic meters are available
 to test parameters including pH, turbidity (the amount of particulate suspended
-in a liquid), and electrical conductivity.</div>
+in a liquid), and electrical conductivity. For enquiries: asknp@np.edu.sg</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
