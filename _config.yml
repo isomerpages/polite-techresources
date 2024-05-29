@@ -15,7 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: POLITE Tech Resources is website that consolidates tech resources
+  among the five polytechnics and ITE in Singapore.
 permalink: none
 baseurl: ""
 exclude:
