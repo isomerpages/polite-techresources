@@ -34,10 +34,13 @@ sections:
         our network of institutions, exclusively for POLITE staff.
   - infopic:
       title: Tech Expertise
-      subtitle: Enable
+      subtitle: Connect
       id: infopic
       button: View all expertise
       url: /tech-expertise/
       alt: Image alt text
       image: /images/businessman_working_futuristic_office_2.jpg
+      description: Connect with experts, collaborate on innovative projects to foster
+        a culture of excellence and cooperation to achieve new heights in
+        education and research.
 ---
