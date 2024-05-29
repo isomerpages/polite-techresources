@@ -1,7 +1,8 @@
 ---
 layout: homepage
 title: POLITE Tech Resources
-description: An Isomer site of the Singapore Government
+description: POLITE Tech Resources is website that consolidates tech resources
+  among the five polytechnics and ITE in Singapore.
 image: /images/favicon_2.png
 permalink: /
 notification: ""
