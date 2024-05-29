@@ -20,6 +20,9 @@ sections:
       url: /facilities/
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
+      description: Institutes of Higher Learning (IHLs) are equipping their campuses
+        with state-of-the-art technology that foster forward-thinking
+        educational environment.
   - infopic:
       title: Tech Equipment
       subtitle: Explore
