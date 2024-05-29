@@ -12,7 +12,7 @@ and foster a forward-thinking educational environment. Explore the future
 of education and discover how these tech facilities are transforming the
 way we learn, create, and connect. Reach out to the relevant IHL to access
 the facility.</p>
-<p><a href="https://builtin.com/articles/tech-companies-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Download the complete list of facilities here</a>
+<p><a href="https://builtin.com/articles/tech-companies-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Download the complete list of Tech Facilities here</a>
 </p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.sp.edu.sg/industry/tie" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Lab" src="/images/steel_chrome_machines_with_shafts.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Photonics Lab - Singapore Polytechnic: Physics Center</div><div class="isomer-card-description">The lab focuses on the study and application of photonics, which is the science and technology of generating, controlling, and detecting photons, the particles of light. For enquiries email: enquiries@sp.edu.sg</div><div class="isomer-card-link">Read more</div></div></a>
