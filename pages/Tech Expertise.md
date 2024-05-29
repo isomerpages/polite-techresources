@@ -4,7 +4,11 @@ permalink: /tech-expertise/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Connect with experts, access cutting-edge knowledge, and collaborate on
+innovative projects to enhance your research and academic endeavors. Utilize
+this portal to drive technological advancements and foster a culture of
+excellence and cooperation within our institutions. Leverage our collective
+expertise to achieve new heights in education and research.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Civil engineering" src="/images/civil_engineer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Civil Engineering: Singapore Polytechnic</div><div class="isomer-card-description">Specializes in the design, construction, and maintenance of various infrastructure projects and systems. They are responsible for planning, analyzing, and overseeing the development of structures.</div><div class="isomer-card-link">Email: sam_choo@sp.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-image">
