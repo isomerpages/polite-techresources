@@ -20,9 +20,8 @@ sections:
       url: /facilities/
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
-      description: Institutes of Higher Learning (IHLs) are equipping their campuses
-        with state-of-the-art technology that foster forward-thinking
-        educational environment.
+      description: Discover a comprehensive catalog of state-of-the-art technology to
+        enhance learning, research, and innovation.
   - infopic:
       title: Tech Equipment
       subtitle: Explore
@@ -31,6 +30,8 @@ sections:
       alt: Image alt text
       url: /tech-equipment/
       image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
+      description: Explore an extensive catalog of cutting-edge tech equipment across
+        our network of institutions, exclusively for POLITE staff.
   - infopic:
       title: Tech Expertise
       subtitle: Enable
