@@ -48,7 +48,7 @@ like steel and granite.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Water Analyzer: Ngee Ann Polytechnic</div>
+<div class="isomer-card-title">Water Analyzer - Ngee Ann Polytechnic: Centre for Environmental Sustainability</div>
 <div class="isomer-card-description">Handheld and benchtop equipment such as electronic meters are available
 to test parameters including pH, turbidity (the amount of particulate suspended
 in a liquid), and electrical conductivity.</div>
