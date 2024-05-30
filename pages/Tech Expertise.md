@@ -97,16 +97,17 @@ specific environments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Energy Project Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Server Cooling System for Data Centres. Energy Saving Technology for Centrally
+Cooled Buildings. Intelligent Remote Monitoring for Urban Solutions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ngee Ann Polytechnic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>peter_chuah@np.edu.sg</p>
 </td>
 </tr>
 <tr>
