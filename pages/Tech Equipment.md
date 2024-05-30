@@ -10,7 +10,7 @@ Enhance collaboration, optimize resource use, and drive technological advancemen
 by leveraging shared assets. This platform facilitates the sharing and
 utilization of cutting-edge tech equipment across our network of institutions,
 exclusively for POLITE staff.</p>
-<p><a href="https://www.zdnet.com/article/best-tech-2022/" rel="noopener noreferrer nofollow" target="_blank">Download the complete list of Tech Equipment here</a>
+<p><a href="/files/Cfes_Equipment_List.pdf" rel="noopener noreferrer nofollow" target="_blank">Download a complete list of Tech Equipment here</a>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:chat@tp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="3D Printer" src="/images/best_3d_printer_01_01_01.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">3D Printers - Temasek Polytechnic: Makerspace lab</div><div class="isomer-card-description">There are also different types of 3D printers depending on the size, detail and scope of a project. Each different type of printer will vary slightly on how an object gets printed.</div><div class="isomer-card-link">For enquiries: chat@tp.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:hello@ite.edu.sg" class="isomer-card">
