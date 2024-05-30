@@ -81,16 +81,18 @@ overseeing the development of structures.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mechanical Engineer</p>
+<p>Horticulturist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Help landscapers grow flowers and plants of different sizes in a wide
+variety of environments. Provide guidance on which plants work best in
+specific environments.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Temasek Polytechnic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rachel_lin@tp.edu.sg</p>
 </td>
 </tr>
 <tr>
