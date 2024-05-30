@@ -41,22 +41,52 @@ and applications Performing maintenance and testing to keep software functioning
 </div>
 </a>
 </div>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Expertise</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Institute</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Civil Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Specializes in the design, construction, and maintenance of various infrastructure
+projects and systems. They are responsible for planning, analyzing, and
+overseeing the development of structures.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sam_choo@sp.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mechanical Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,6 +94,40 @@ and applications Performing maintenance and testing to keep software functioning
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
