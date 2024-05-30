@@ -11,7 +11,7 @@ excellence and cooperation within our institutions. Leverage our collective
 expertise to achieve new heights in education and research.</p>
 <p><a href="https://www.indeed.com/career-advice/career-development/in-demand-tech-skills" rel="noopener noreferrer nofollow" target="_blank">Download the complete list of Tech Expertise here</a>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Civil Engineer: Singapore Polytechnic</div><div class="isomer-card-description">Specializes in the design, construction, and maintenance of various infrastructure projects and systems. They are responsible for planning, analyzing, and overseeing the development of structures.</div><div class="isomer-card-link">Email: sam_choo@sp.edu.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:sam_choo@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Civil Engineer: Singapore Polytechnic</div><div class="isomer-card-description">Specializes in the design, construction, and maintenance of various infrastructure projects and systems. They are responsible for planning, analyzing, and overseeing the development of structures.</div><div class="isomer-card-link">Email: sam_choo@sp.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Horticulturist: Temasek Polytechnic</div>
