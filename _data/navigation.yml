@@ -7,15 +7,15 @@ links:
   - title: Equipment
     url: /tech-equipment/
   - title: Expertise
-    url: /tech-expertise/
-  - title: Contact Us
-    url: /contact-us/
-  - title: Expertise
     url: /permalink
     sublinks:
+      - title: Administration
+        url: /permalink
       - title: Water Technology
         url: /tech-expertise/
       - title: Membrane Technology
         url: /tech-expertise/
       - title: Energy Efficiency Technology
         url: /tech-expertise/
+  - title: Contact Us
+    url: /contact-us/
