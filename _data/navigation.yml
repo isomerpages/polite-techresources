@@ -3,7 +3,16 @@ links:
   - title: About POLITE
     url: /about-polite/
   - title: Facilities
-    url: /facilities/
+    url: /permalink
+    sublinks:
+      - title: Material Characterisation
+        url: /permalink
+      - title: Membrane Characterisation
+        url: /permalink
+      - title: Membrane Performance Evaluate
+        url: /permalink
+      - title: Water Quality Analysis
+        url: /permalink
   - title: Equipment
     url: /permalink
     sublinks:
@@ -28,14 +37,3 @@ links:
         url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
-  - title: Facilities
-    url: /permalink
-    sublinks:
-      - title: Material Characterisation
-        url: /permalink
-      - title: Membrane Characterisation
-        url: /permalink
-      - title: Membrane Performance Evaluate
-        url: /permalink
-      - title: Water Quality Analysis
-        url: /permalink
