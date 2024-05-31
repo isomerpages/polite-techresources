@@ -10,10 +10,12 @@ links:
     url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
-  - title: New menu group
+  - title: Facilities
     url: /permalink
     sublinks:
-      - title: Cat 2
+      - title: Water Technology
+        url: /facilities/
+      - title: Membrane Technology
         url: /permalink
-      - title: Cat 3
+      - title: Energy Efficiency Technology
         url: /permalink
