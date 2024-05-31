@@ -10,3 +10,10 @@ links:
     url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
+  - title: New menu group
+    url: /permalink
+    sublinks:
+      - title: Cat 2
+        url: /permalink
+      - title: Cat 3
+        url: /permalink
