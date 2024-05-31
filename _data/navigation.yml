@@ -5,7 +5,16 @@ links:
   - title: Facilities
     url: /facilities/
   - title: Equipment
-    url: /tech-equipment/
+    url: /permalink
+    sublinks:
+      - title: Mechanical Engineering
+        url: /permalink
+      - title: Membrane Technology
+        url: /permalink
+      - title: Electrical Engineering
+        url: /permalink
+      - title: Energy Efficiency
+        url: /permalink
   - title: Expertise
     url: /permalink
     sublinks:
@@ -19,14 +28,14 @@ links:
         url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
-  - title: Equipment
+  - title: Facilities
     url: /permalink
     sublinks:
-      - title: Mechanical Engineering
+      - title: Material Characterisation
         url: /permalink
-      - title: Membrane Technology
+      - title: Membrane Characterisation
         url: /permalink
-      - title: Electrical Engineering
+      - title: Membrane Performance Evaluate
         url: /permalink
-      - title: Energy Efficiency
+      - title: Water Quality Analysis
         url: /permalink
