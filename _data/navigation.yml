@@ -10,12 +10,12 @@ links:
     url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
-  - title: Facilities
+  - title: Expertise
     url: /permalink
     sublinks:
       - title: Water Technology
-        url: /facilities/
+        url: /tech-expertise/
       - title: Membrane Technology
-        url: /permalink
+        url: /tech-expertise/
       - title: Energy Efficiency Technology
-        url: /permalink
+        url: /tech-expertise/
