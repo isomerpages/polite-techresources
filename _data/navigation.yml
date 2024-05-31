@@ -19,3 +19,14 @@ links:
         url: /tech-expertise/
   - title: Contact Us
     url: /contact-us/
+  - title: Equipment
+    url: /permalink
+    sublinks:
+      - title: Mechanical Engineering
+        url: /permalink
+      - title: Membrane Technology
+        url: /permalink
+      - title: Electrical Engineering
+        url: /permalink
+      - title: Energy Efficiency
+        url: /permalink
