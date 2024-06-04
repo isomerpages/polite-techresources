@@ -2,5 +2,5 @@ collections:
   facilities:
     output: true
     order:
-      - Mechanical Engineering.md
       - Water Technology.md
+      - Mechanical Engineering.md
