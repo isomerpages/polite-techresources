@@ -2,5 +2,6 @@ collections:
   facilities:
     output: true
     order:
+      - Life Sciences.md
       - Water Technology.md
       - Mechanical Engineering.md
