@@ -38,7 +38,7 @@ sections:
       subtitle: Connect
       id: infopic
       button: Learn more
-      url: /tech-expertise/
+      url: /expertise-overview/
       alt: Image alt text
       image: /images/businessman_working_futuristic_office_2.jpg
       description: Connect with experts, collaborate on innovative projects to foster
