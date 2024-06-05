@@ -18,7 +18,7 @@ sections:
       subtitle: Discover
       id: infopic
       button: View all facilities
-      url: /facilities/
+      url: /facilities-overview/
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
       description: Discover a comprehensive catalog of state-of-the-art technology to
