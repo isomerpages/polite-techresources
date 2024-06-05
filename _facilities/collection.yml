@@ -2,7 +2,7 @@ collections:
   facilities:
     output: true
     order:
-      - Film and Media.md
       - Water Technology.md
       - Mechanical Engineering.md
       - Life Sciences.md
+      - Film and Media.md
