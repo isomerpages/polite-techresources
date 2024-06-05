@@ -29,7 +29,7 @@ sections:
       id: infopic
       button: Learn more
       alt: Image alt text
-      url: /tech-equipment/
+      url: /equipment-overview/
       image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
       description: Explore an extensive catalog of cutting-edge tech equipment across
         our network of institutions, exclusively for POLITE staff.
