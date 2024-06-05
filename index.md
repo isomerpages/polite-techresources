@@ -17,7 +17,7 @@ sections:
       title: Tech Facilities
       subtitle: Discover
       id: infopic
-      button: View all facilities
+      button: Learn more
       url: /facilities-overview/
       image: /images/factory_with_large_machine_middle.jpg
       alt: Image alt text
