@@ -16,11 +16,13 @@ links:
   - title: Equipment
     url: /permalink
     sublinks:
-      - title: Membrane Technology
-        url: /permalink
-      - title: Energy Efficiency
-        url: /permalink
       - title: Water Technology
+        url: /permalink
+      - title: Mechanical Engineering
+        url: /permalink
+      - title: Life Sciences
+        url: /permalink
+      - title: Film and Media
         url: /permalink
   - title: Expertise
     url: /example-folder/folder-page
