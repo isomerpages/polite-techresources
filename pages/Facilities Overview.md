@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Here is a catalogue of tech facilities</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Technology" src="/images/OIP.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water Technology</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Technology" src="/images/OIP.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water Technology</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -14,7 +14,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mechanical Engineering</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
