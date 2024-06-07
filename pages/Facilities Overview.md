@@ -18,7 +18,7 @@ description: ""
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Life Sciences" src="/images/people_white_isolating_costumes_working_laboratory.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Life Sciences</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Life Sciences" src="/images/people_white_isolating_costumes_working_laboratory.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Life Sciences</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -27,7 +27,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Film and Media</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
 </a>
 </div>
