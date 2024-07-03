@@ -13,4 +13,7 @@ sections:
       variant: center
       title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
+      button: View IHLS
+      size: md
+      alignment: left
 ---
