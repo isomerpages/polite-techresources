@@ -34,7 +34,7 @@ sections:
           linktext: Learn more
           url: ""
   - textcards:
-      title: ""
+      title: for tech development
       id: textcards
       cards:
         - title: Republic Polytechnic
