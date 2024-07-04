@@ -17,37 +17,35 @@ sections:
       size: md
       alignment: left
   - textcards:
-      title: ""
+      title: Technology at your fingertips
       id: textcards
       cards:
-        - title: Card
-          description: Card description
+        - title: Institute of Technical Education (ITE)
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Nanyang Polytechnic
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Ngee Ann Polytechnic
+          description: ""
           linktext: Learn more
           url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: ""
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
-          description: Card description
+        - title: Republic Polytechnic
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Singapore Polytechnic
+          description: ""
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
+        - title: Temasek Polytechnic
+          description: ""
           linktext: Learn more
           url: ""
 ---
