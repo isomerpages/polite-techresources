@@ -9,15 +9,16 @@ notification: ""
 sections:
   - hero:
       background: /images/62005__Converted_.jpg
-      url: /contact-us/
       variant: center
       title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
-      button: View IHLS
       size: md
       alignment: left
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - textcards:
-      title: Technology at your fingertips
+      title: Access to technology from IHLS
       id: textcards
       cards:
         - title: Institute of Technical Education (ITE)
