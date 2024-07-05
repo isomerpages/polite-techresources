@@ -15,8 +15,10 @@ sections:
       size: md
       alignment: left
       dropdown:
-        title: Hero Dropdown Title
-        options: []
+        title: Select a IHL
+        options:
+          - title: ITE
+            url: /institute-of-technical-education-ite/
   - textcards:
       title: Access to technology from IHLS
       id: textcards
