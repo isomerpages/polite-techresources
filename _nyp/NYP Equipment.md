@@ -59,7 +59,7 @@ Engineering (CDPE)-Mould &amp; Tool Design Section (MTDS)</div>
 of Injection Moulds</div>
 <div class="isomer-card-link">Visit NYP</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www.nyp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mold &amp; test" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrated Toolroom &amp; Plastics Technology Lab - Centre for Digital and Precision Engineering (CDPE) -Mould &amp; Tool Design Section (MTDS)</div><div class="isomer-card-description">Electrical Discharge Machining (EDM) Die-Sinking &amp; Wire-cutting Micro Moulding, Lens Moulding, LSR Moulding</div><div class="isomer-card-link">Visit NYP</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www.nyp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mold &amp; test" src="/images/Integrated_toolroom___Plastics.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integrated Toolroom &amp; Plastics Technology Lab - Centre for Digital and Precision Engineering (CDPE) -Mould &amp; Tool Design Section (MTDS)</div><div class="isomer-card-description">Electrical Discharge Machining (EDM) Die-Sinking &amp; Wire-cutting Micro Moulding, Lens Moulding, LSR Moulding</div><div class="isomer-card-link">Visit NYP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www.nyp.edu.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
