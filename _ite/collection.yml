@@ -2,5 +2,5 @@ collections:
   ite:
     output: true
     order:
-      - ITE Facilities.md
       - Institute of Technical Education (ITE).md
+      - ITE Facilities.md
