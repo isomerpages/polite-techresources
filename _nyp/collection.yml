@@ -2,7 +2,7 @@ collections:
   nyp:
     output: true
     order:
-      - NYP Expertise.md
-      - NYP Equipment.md
-      - NYP Facilities.md
       - Nanyang Polytechnic (NYP).md
+      - NYP Facilities.md
+      - NYP Equipment.md
+      - NYP Expertise.md
