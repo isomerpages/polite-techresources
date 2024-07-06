@@ -2,6 +2,7 @@ collections:
   ite:
     output: true
     order:
+      - ITE Expertise.md
       - Institute of Technical Education (ITE).md
       - ITE Facilities.md
       - ITE Equipment.md
