@@ -1,0 +1,4 @@
+collections:
+  nyp:
+    output: true
+    order: []
