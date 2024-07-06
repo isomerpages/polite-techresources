@@ -1,4 +1,5 @@
 collections:
   ite:
     output: true
-    order: []
+    order:
+      - Institute of Technical Education (ITE).md
