@@ -1,0 +1,4 @@
+collections:
+  np:
+    output: true
+    order: []
