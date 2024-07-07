@@ -1,4 +1,5 @@
 collections:
   rp:
     output: true
-    order: []
+    order:
+      - Republic Polytechnic (RP).md
