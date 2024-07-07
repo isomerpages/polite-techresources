@@ -25,6 +25,8 @@ sections:
             url: /nanyang-polytechnic-nyp/
           - title: RP
             url: /republic-polytechnic-rp/
+          - title: SP
+            url: /singapore-polytechnic-sp/
   - textcards:
       title: Access to technology from IHLS
       id: textcards
