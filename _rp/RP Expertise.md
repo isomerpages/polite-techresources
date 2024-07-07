@@ -44,14 +44,17 @@ journey by tapping on Industry 4.0 technologies</div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto:queenie_lee@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Queenie Lee, Hospitality Solutions Centre - School of Hospitality</div><div class="isomer-card-description">- New industry insights - Hospitality technology solutioning and innovation - Prototyping of hospitality solutions - Operational process planning and improvement management - Customer Experience Design and Analytics - Food &amp; Beverage Innovation - Event &amp; MICE planning and management</div><div class="isomer-card-link">Contact: Queenie Lee</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto: tan_poh_keam@RP.EDU.SG" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tan Poh Keam, Artificial Intelligence Technology Centre - School of Infocomm</div><div class="isomer-card-description"> - Focuses on growing capabilities, expertise and knowledge in utilising AI technologies to create innovative industry driven solutions
- - Computer vision, natural language understanding, and data management and analytics are the three key development pillars for this center</div><div class="isomer-card-link">Contact: Tan Poh Keam</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto: tan_poh_keam@RP.EDU.SG" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tan Poh Keam, Artificial Intelligence Technology Centre - School of Infocomm</div><div class="isomer-card-description">- Focuses on growing capabilities, expertise and knowledge in utilising AI technologies to create innovative industry driven solutions - Computer vision, natural language understanding, and data management and analytics are the three key development pillars for this center</div><div class="isomer-card-link">Contact: Tan Poh Keam</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto: tan_wee_siong@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Tan Wee Siong, Internet of Things Solutions Centre - School of Infocomm</div>
+<div class="isomer-card-description">- Allows local enterprises to tap on the creativity and expertise of RP
+staff and students to create innovative interoperable solutions and services
+to support their own organizational needs and initiatives.</div>
+<div class="isomer-card-link">Contact: Tan Wee Siong</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:ian_harris_sujae@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jaquilin-Ang Danker, Consumer Insights and Social Enterprise Research (CISER) Centre - School of Management and Communication</div><div class="isomer-card-description"> - Consultancy services on human movement and research for industry applications
+ - Assessing test protocols for ecological validity
+ - Applying sports and exercise sciences to assess human performance</div><div class="isomer-card-link">Contact: Ian Harris</div></div></a>
 </div>
 <p></p>
