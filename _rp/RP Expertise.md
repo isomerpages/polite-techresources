@@ -53,6 +53,48 @@ staff and students to create innovative interoperable solutions and services
 to support their own organizational needs and initiatives.</div>
 <div class="isomer-card-link">Contact: Tan Wee Siong</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:jaquilin_ang_danker@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jaquilin-Ang Danker, Consumer Insights and Social Enterprise Research (CISER) Centre - School of Management and Communication</div><div class="isomer-card-description">Consumer behavior, product testing, market research, Qualitative Research, Quantitative Research, Consumer behavior, market trend and data analytics visualization, Business Process Re-design </div><div class="isomer-card-link">Contact: Jaquilin-Ang Danker</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:jaquilin_ang_danker@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jaquilin-Ang Danker, Consumer Insights and Social Enterprise Research (CISER) Centre - School of Management and Communication</div><div class="isomer-card-description">Consumer behavior, product testing, market research, Qualitative Research, Quantitative Research, Consumer behavior, market trend and data analytics visualization, Business Process Re-design</div><div class="isomer-card-link">Contact: Jaquilin-Ang Danker</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:eugene_lee@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title"> Eugene Lee, Digital Business and Technology Centre - School of Management and Communication</div><div class="isomer-card-description">Marketing and branding campaigns leveraging on immersive technology
+E-commerce solutions, online to offline digital media campaigns strategies.</div><div class="isomer-card-link">Contact:  Eugene Lee</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto: ian_harris_sujae@rp.edu.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ian Harris Sujae, Ergonomics and Ergogenic Technology Centre - School
+of Sports, Health and Leisure</div>
+<div class="isomer-card-description">Consultancy services on human movement and research for industry applications,
+assessing test protocols for ecological validity, applying sports and exercise
+sciences to assess human performance.</div>
+<div class="isomer-card-link">Contact: Ian Harris Sujae</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:woo_mei_teng@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Woo Mei Teng, Experiential Learning Research Centre - School of Sports, Health and Leisure</div><div class="isomer-card-description"> - Experiential, outdoor and adventure education pedagogy
+ - Environmental education and interpretation
+ - Expedition planning, risk assessment and crisis management
+ - Qualitative research and narrative inquiry
+ - Life skills development
+ - Team-based professional development courses</div><div class="isomer-card-link">Contact: Woo Mei Teng</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:wan_rizal2@RP.EDU.SG" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Wan Rizal, Wellness Research Centre - School of Sports, Health and Leisure</div><div class="isomer-card-description"> - Developing innovative health products and programmes
+ - Mental health research
+ - Geriatric wellness research
+ - Physiotherapy and rehabilitative studies</div><div class="isomer-card-link">Contact: Wan Rizal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:garion_goh@rp.edu.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Garion Goh, Creative Service Centre - School of Technology for the Arts</div>
+<div class="isomer-card-description">- Content development - Entertainment and MICE</div>
+<div class="isomer-card-link">Contact: Garion Goh</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:garion_goh@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Garion Goh, Experience Design and Gamification Centre - School of Technology for the Arts</div><div class="isomer-card-description"> - Immersive Media and Content Creation
+ - User Experience
+ - Gamification</div><div class="isomer-card-link">Contact: Garion Goh</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:edmund_chan@rp.edu.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Edmund Chan, Centre of Innovation - Supply Chain Management</div>
+<div class="isomer-card-description">Helps Singapore-based companies to develop and strengthen their and logistics
+capabilities through Process Innovation, Technology, Enablement, and Training</div>
+<div class="isomer-card-link">Contact: Edmund Chan</div>
+</div>
+</a>
 </div>
 <p></p>
