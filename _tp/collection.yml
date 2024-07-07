@@ -2,6 +2,7 @@ collections:
   tp:
     output: true
     order:
+      - TP Expertise.md
       - Temasek Polytechnic (TP).md
       - TP Facilities.md
       - TP Equipment.md
