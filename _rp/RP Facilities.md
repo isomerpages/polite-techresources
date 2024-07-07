@@ -28,7 +28,7 @@ courses and AWS DeepRacer.</div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto:ian_harris_sujae@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Human Performance Lab - School of Sports, Health &amp; Leisure</div><div class="isomer-card-description">Specialised lab equiped with an environmental chamber (temperature and humidity control) to study human performance under controlled environmental conditions together with an array of gold standard instruments (metalyzers, spirometers, lactate analyzers etc.) and exercise ergometers.</div><div class="isomer-card-link">Contact: Ian Harris</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:liz_riyana@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Xperiential Learning Centre (XLC) - School of Sports, Health &amp; Leisure</div><div class="isomer-card-description">Specialist indoor and inclusive outdoor facility featuring 10 unique adventure facilities. Participants with limited mobility, such as wheelchair users and seniors are able to participate making experiential learning and outdoor education more accessible to everyone. </div><div class="isomer-card-link">Contact: Liz Riyana</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:liz_riyana@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Xperiential Learning Centre (XLC) - School of Sports, Health &amp; Leisure</div><div class="isomer-card-description">Specialist indoor and inclusive outdoor facility featuring 10 unique adventure facilities. Participants with limited mobility, such as wheelchair users and seniors are able to participate making experiential learning and outdoor education more accessible to everyone.</div><div class="isomer-card-link">Contact: Liz Riyana</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:ian_harris_sujae@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sports Engineering Lab - School of Sports, Health &amp; Leisure</div>
@@ -39,5 +39,18 @@ isokinetic dynamometer, etc.</div>
 <div class="isomer-card-link">Contact: Ian Harris</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto: jenny_chau@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Greenhouse - School of Applied Science</div><div class="isomer-card-description">The Greenhouse is dedicated to growing plants in naturally ventilated and climate-controlled conditions. The facility consists of a naturally ventilated greenhouse and a climate-controlled glasshouse, and a two-story laboratory built with containers.</div><div class="isomer-card-link">Contact: Dr Jenny Chau</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:dawn_ong@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STAR Lab (Sustainable Technology &amp; Analytical Research) Laboratory - School of Applied Science </div><div class="isomer-card-description">Equipped with analytical instruments connected to a cloud-based system, where staff and students can remotely monitor experiments, collecting and analysing data in real-time.</div><div class="isomer-card-link">Contact: Ms Dawn Ong</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:samuel_aw@rp.edu.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Food Innovation &amp; Analysis Laboratory - School of Applied Science</div>
+<div class="isomer-card-description">This laboratory supports teaching and industry research projects in food
+product development aligned with industry trends. This includes plant-based
+innovation, alternative protein, food analysis, as well as shelf-life extension
+studies.</div>
+<div class="isomer-card-link">Contact: Mr Samuel Aw</div>
+</div>
+</a>
 </div>
 <p></p>
