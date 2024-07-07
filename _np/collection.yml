@@ -2,4 +2,5 @@ collections:
   np:
     output: true
     order:
+      - NP Equipment.md
       - Ngee Ann Polytechnic (NP).md
