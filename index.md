@@ -23,6 +23,8 @@ sections:
             url: /ngee-ann-polytechnic-np/
           - title: NYP
             url: /nanyang-polytechnic-nyp/
+          - title: RP
+            url: /republic-polytechnic-rp/
   - textcards:
       title: Access to technology from IHLS
       id: textcards
