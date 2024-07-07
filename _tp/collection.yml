@@ -1,4 +1,5 @@
 collections:
   tp:
     output: true
-    order: []
+    order:
+      - TP Equipment.md
