@@ -2,4 +2,5 @@ collections:
   tp:
     output: true
     order:
+      - TP Facilities.md
       - TP Equipment.md
