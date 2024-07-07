@@ -53,8 +53,6 @@ staff and students to create innovative interoperable solutions and services
 to support their own organizational needs and initiatives.</div>
 <div class="isomer-card-link">Contact: Tan Wee Siong</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:ian_harris_sujae@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jaquilin-Ang Danker, Consumer Insights and Social Enterprise Research (CISER) Centre - School of Management and Communication</div><div class="isomer-card-description"> - Consultancy services on human movement and research for industry applications
- - Assessing test protocols for ecological validity
- - Applying sports and exercise sciences to assess human performance</div><div class="isomer-card-link">Contact: Ian Harris</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:jaquilin_ang_danker@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Jaquilin-Ang Danker, Consumer Insights and Social Enterprise Research (CISER) Centre - School of Management and Communication</div><div class="isomer-card-description">Consumer behavior, product testing, market research, Qualitative Research, Quantitative Research, Consumer behavior, market trend and data analytics visualization, Business Process Re-design </div><div class="isomer-card-link">Contact: Jaquilin-Ang Danker</div></div></a>
 </div>
 <p></p>
