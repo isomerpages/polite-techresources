@@ -2,6 +2,7 @@ collections:
   rp:
     output: true
     order:
+      - RP Expertise.md
       - RP Equipment.md
       - RP Facilities.md
       - Republic Polytechnic (RP).md
