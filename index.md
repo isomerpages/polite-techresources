@@ -19,10 +19,10 @@ sections:
         options:
           - title: ITE
             url: /institute-of-technical-education-ite/
-          - title: NYP
-            url: /nanyang-polytechnic-nyp/
           - title: NP
             url: /ngee-ann-polytechnic-np/
+          - title: NYP
+            url: /nanyang-polytechnic-nyp/
   - textcards:
       title: Access to technology from IHLS
       id: textcards
