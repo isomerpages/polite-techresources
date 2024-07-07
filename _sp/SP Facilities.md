@@ -38,6 +38,38 @@ oxygen consumption, electrocardiogram and electromyogram) and simulate
 body systems for both teaching and R&amp;D work.</div>
 <div class="isomer-card-link">Visit SP</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fabrication" src="/images/6_Fabrication.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fab lab (T11C) - SP/MECHANICAL AND AERONAUTICAL ENGINEERING (MAE) /Location: T11C.</div><div class="isomer-card-description">Fablab Central houses the larger equipment like laser cutters, CNC and precision milling, digital flatbed cutting machines and a woodworking workshop.</div><div class="isomer-card-link">Visit SP</div></div></a>
+<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Maritime / Engine" src="/images/7_Maritime_engine.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Engine Room Simulator - SP/ SINGAPORE MARITIME ACADEMY (SMA) /Location:
+ISC Level 2.</div>
+<div class="isomer-card-description">In the Full Mission Engine Room Simulator, the comprehensive, realistic,
+interactive and dynamic systems simulate real-world ship propulsion plants.</div>
+<div class="isomer-card-link">Visit SP</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime/Navigation" src="/images/8_Maritime_navigation.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Navigation Simulator - SP/ SINGAPORE MARITIME ACADEMY (SMA) /Location: ISC Level 2.</div><div class="isomer-card-description">The Navigation Simulator consists of five Navigating Bridges, three Instructor Stations and Briefing/Debriefing Room. The bridges have a horizontal field of view of 240 degrees and fully equipped with state-of-the-art Computer-Generated Image (CGI) system to create a highly realistic environment.</div><div class="isomer-card-link">Visit SP</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime" src="/images/9_Maritime.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Maritime Business Centre - SP/ SINGAPORE MARITIME ACADEMY (SMA) / Location: T1A610A</div><div class="isomer-card-description">A learning space that will provide the opportunity for students to strengthen their analytical skills, think critically on a scenario-based approach, develop them with a strong knowledge of the maritime industry and equip them with IT and problem-solving skills.</div><div class="isomer-card-link">Visit SP</div></div></a>
+<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Maritime" src="/images/10_Maritime.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Poly Marina - SP/ SINGAPORE MARITIME ACADEMY (SMA) / Location: 50 West
+Coast Ferry Road.</div>
+<div class="isomer-card-description">The Poly Marina on the West Coast waterfront is equipped with fully enclosed
+and partially enclosed lifeboats capable of being launched from a gravity
+davit as well as life rafts, which are necessary for training.</div>
+<div class="isomer-card-link">Visit SP</div>
+</div>
+</a>
 </div>
 <p></p>
