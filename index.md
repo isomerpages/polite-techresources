@@ -36,15 +36,15 @@ sections:
         - title: Institute of Technical Education (ITE)
           description: ""
           linktext: Learn more
-          url: ""
-        - title: Nanyang Polytechnic
-          description: ""
-          linktext: Learn more
-          url: ""
+          url: /institute-of-technical-education-ite/
         - title: Ngee Ann Polytechnic
           description: ""
           linktext: Learn more
-          url: ""
+          url: /ngee-ann-polytechnic-np/
+        - title: Nanyang Polytechnic
+          description: ""
+          linktext: Learn more
+          url: /nanyang-polytechnic-nyp/
   - textcards:
       title: for tech development
       id: textcards
@@ -52,13 +52,13 @@ sections:
         - title: Republic Polytechnic
           description: ""
           linktext: Learn more
-          url: ""
+          url: /republic-polytechnic-rp/
         - title: Singapore Polytechnic
           description: ""
           linktext: Learn more
-          url: ""
+          url: /singapore-polytechnic-sp/
         - title: Temasek Polytechnic
           description: ""
           linktext: Learn more
-          url: ""
+          url: /temasek-polytechnic-tp/
 ---
