@@ -2,4 +2,5 @@ collections:
   sp:
     output: true
     order:
+      - SP Equipment.md
       - Singapore Polytechnic (SP).md
