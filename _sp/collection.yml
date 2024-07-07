@@ -1,4 +1,5 @@
 collections:
   sp:
     output: true
-    order: []
+    order:
+      - Singapore Polytechnic (SP).md
