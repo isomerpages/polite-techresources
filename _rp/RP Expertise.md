@@ -31,13 +31,7 @@ fish nutrient quality</div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto:banna_rao@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Banna Rao, Aviation and Aerospace Solutions Centre - School of Engineering</div><div class="isomer-card-description">- Aviation Productivity and Innovation - Smart MRO Operations - UAV systems applications</div><div class="isomer-card-link">Contact Banna Rao</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:kadir_yusop@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Kadir Yusop, Smart Engineering Technology Centre - School of Engineering</div><div class="isomer-card-description"> - Industry 4.0
- - Sustainability
- - Healthcare (with RIE 2020)
-- 5G
-- Robotics &amp; Automation
-- Unmanned Systems
-- Agrifood Innovation</div><div class="isomer-card-link">Contact: Kadir Yusop</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:kadir_yusop@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Kadir Yusop, Smart Engineering Technology Centre - School of Engineering</div><div class="isomer-card-description">- Industry 4.0 - Sustainability - Healthcare (with RIE 2020) - 5G - Robotics &amp; Automation - Unmanned Systems - Agrifood Innovation</div><div class="isomer-card-link">Contact: Kadir Yusop</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:banna_rao@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Banna Rao, Supply Chain Technology Centre - School of Engineering</div>
@@ -47,12 +41,17 @@ that allow companies to embark on their digital supply chain transformation
 journey by tapping on Industry 4.0 technologies</div>
 <div class="isomer-card-link">Contact: Banna Rao</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:queenie_lee@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Queenie Lee, Hospitality Solutions Centre - School of Hospitality</div><div class="isomer-card-description"> - New industry insights 
- - Hospitality technology solutioning and innovation 
- - Prototyping of hospitality solutions 
- - Operational process planning and improvement management 
- - Customer Experience Design and Analytics 
- - Food &amp; Beverage Innovation
- - Event &amp; MICE planning and management</div><div class="isomer-card-link">Contact: Queenie Lee</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:queenie_lee@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Queenie Lee, Hospitality Solutions Centre - School of Hospitality</div><div class="isomer-card-description">- New industry insights - Hospitality technology solutioning and innovation - Prototyping of hospitality solutions - Operational process planning and improvement management - Customer Experience Design and Analytics - Food &amp; Beverage Innovation - Event &amp; MICE planning and management</div><div class="isomer-card-link">Contact: Queenie Lee</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto: tan_poh_keam@RP.EDU.SG" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Tan Poh Keam, Artificial Intelligence Technology Centre - School of Infocomm</div><div class="isomer-card-description"> - Focuses on growing capabilities, expertise and knowledge in utilising AI technologies to create innovative industry driven solutions
+ - Computer vision, natural language understanding, and data management and analytics are the three key development pillars for this center</div><div class="isomer-card-link">Contact: Tan Poh Keam</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
