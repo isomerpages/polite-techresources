@@ -2,5 +2,6 @@ collections:
   tp:
     output: true
     order:
+      - Temasek Polytechnic (TP).md
       - TP Facilities.md
       - TP Equipment.md
