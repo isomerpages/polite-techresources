@@ -41,7 +41,7 @@ isokinetic dynamometer, etc.</div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto: jenny_chau@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">The Greenhouse - School of Applied Science</div><div class="isomer-card-description">The Greenhouse is dedicated to growing plants in naturally ventilated and climate-controlled conditions. The facility consists of a naturally ventilated greenhouse and a climate-controlled glasshouse, and a two-story laboratory built with containers.</div><div class="isomer-card-link">Contact: Dr Jenny Chau</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:dawn_ong@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STAR Lab (Sustainable Technology &amp; Analytical Research) Laboratory - School of Applied Science </div><div class="isomer-card-description">Equipped with analytical instruments connected to a cloud-based system, where staff and students can remotely monitor experiments, collecting and analysing data in real-time.</div><div class="isomer-card-link">Contact: Ms Dawn Ong</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:dawn_ong@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STAR Lab (Sustainable Technology &amp; Analytical Research) Laboratory - School of Applied Science</div><div class="isomer-card-description">Equipped with analytical instruments connected to a cloud-based system, where staff and students can remotely monitor experiments, collecting and analysing data in real-time.</div><div class="isomer-card-link">Contact: Ms Dawn Ong</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:samuel_aw@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Food Innovation &amp; Analysis Laboratory - School of Applied Science</div>
@@ -50,6 +50,18 @@ product development aligned with industry trends. This includes plant-based
 innovation, alternative protein, food analysis, as well as shelf-life extension
 studies.</div>
 <div class="isomer-card-link">Contact: Mr Samuel Aw</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:shubha_vij@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Aquaria/Genetics Lab - School of Applied Science</div><div class="isomer-card-description">Aquaria, equipped with an outdoor air-ventilated facility and indoor temperature-controlled rooms, is used as a dedicated marine science and aquaculture teaching and research facility.</div><div class="isomer-card-link">Contact: Dr Shubha Vij</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:goh_chee_keong@rp.edu.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Environmental Technology Lab - School of Applied Science</div>
+<div class="isomer-card-description">Environmental Technology Centre (ENVTC) undertakes applied research and
+development in the areas of renewable energy, sustainable products, waste
+and water management, environmental conservation and aquaculture.</div>
+<div class="isomer-card-link">Contact: Dr Goh Chee Keong</div>
 </div>
 </a>
 </div>
