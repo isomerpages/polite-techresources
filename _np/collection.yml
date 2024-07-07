@@ -2,6 +2,7 @@ collections:
   np:
     output: true
     order:
+      - NP Facilities.md
       - NP Expertise.md
       - NP Equipment.md
       - Ngee Ann Polytechnic (NP).md
