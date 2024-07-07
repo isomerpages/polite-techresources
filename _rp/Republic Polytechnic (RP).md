@@ -16,6 +16,6 @@ description: ""
 <div class="isomer-card-title">RP Equipment</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Expertise" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">RP Expertise</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/rp-expertise/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Expertise" src="/images/Scientist.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">RP Expertise</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
