@@ -27,6 +27,8 @@ sections:
             url: /republic-polytechnic-rp/
           - title: SP
             url: /singapore-polytechnic-sp/
+          - title: TP
+            url: /temasek-polytechnic-tp/
   - textcards:
       title: Access to technology from IHLS
       id: textcards
