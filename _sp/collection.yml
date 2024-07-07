@@ -2,6 +2,7 @@ collections:
   sp:
     output: true
     order:
+      - SP Facilities.md
       - Singapore Polytechnic (SP).md
       - SP Equipment.md
       - SP Expertise.md
