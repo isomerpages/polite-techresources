@@ -2,4 +2,5 @@ collections:
   rp:
     output: true
     order:
+      - RP Facilities.md
       - Republic Polytechnic (RP).md
