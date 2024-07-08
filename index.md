@@ -21,16 +21,6 @@ sections:
             url: /facilities/
           - title: Equipment
             url: /equipment/
-          - title: ITE
-            url: /institute-of-technical-education-ite/
-          - title: NP
-            url: /ngee-ann-polytechnic-np/
-          - title: NYP
-            url: /nanyang-polytechnic-nyp/
-          - title: RP
-            url: /republic-polytechnic-rp/
-          - title: SP
-            url: /singapore-polytechnic-sp/
-          - title: TP
-            url: /temasek-polytechnic-tp/
+          - title: Expertise
+            url: /expertise/
 ---
