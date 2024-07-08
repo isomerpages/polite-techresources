@@ -1,0 +1,8 @@
+collections:
+  np:
+    output: true
+    order:
+      - Ngee Ann Polytechnic (NP).md
+      - NP Facilities.md
+      - NP Equipment.md
+      - NP Expertise.md

@@ -1,12 +1,16 @@
 logo: /images/LOGO_5.png
 links:
-  - title: About POLITE
+  - title: ITE
+    url: /institute-of-technical-education-ite/
+  - title: NP
+    url: /ngee-ann-polytechnic-np/
+  - title: NYP
+    url: /nanyang-polytechnic-nyp/
+  - title: RP
+    url: /republic-polytechnic-rp/
+  - title: SP
+    url: /singapore-polytechnic-sp/
+  - title: TP
+    url: /temasek-polytechnic-tp/
+  - title: About
     url: /about-polite/
-  - title: Facilities
-    url: /facilities/
-  - title: Equipment
-    url: /tech-equipment/
-  - title: Expertise
-    url: /tech-expertise/
-  - title: Contact Us
-    url: /contact-us/

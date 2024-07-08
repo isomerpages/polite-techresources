@@ -1,39 +1,40 @@
 ---
 layout: homepage
 title: POLITE Tech Resources
-description: An Isomer site of the Singapore Government
+description: POLITE Tech Resources is website that consolidates tech resources
+  among the five polytechnics and ITE in Singapore.
 image: /images/favicon_2.png
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/62005__Converted_.jpg
-      url: /contact-us/
       variant: center
       title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
-  - infopic:
-      title: Tech Facilities
-      subtitle: Discover
-      id: infopic
-      button: View all facilities
-      url: /facilities/
-      image: /images/factory_with_large_machine_middle.jpg
-      alt: Image alt text
-  - infopic:
-      title: Tech Equipment
-      subtitle: Explore
-      id: infopic
-      button: View all equipment
-      alt: Image alt text
-      url: /tech-equipment/
-      image: /images/71343_headset_htc_rift_oculus_virtual_reality_vr.png
-  - infopic:
-      title: Tech Expertise
-      subtitle: Enable
-      id: infopic
-      button: View all expertise
-      url: /tech-expertise/
-      alt: Image alt text
-      image: /images/businessman_working_futuristic_office_2.jpg
+      size: md
+      alignment: left
+      dropdown:
+        title: Select a category
+        options:
+          - title: Facilities
+            url: /facilities/
+          - title: Equipment
+            url: /equipment/
+          - title: Expertise
+            url: /expertise/
+  - infocols:
+      title: A guide for better search results
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Step 1
+          description: To begin search, click on the magnifying glass icon at the top
+            right corner.
+        - title: Step 2
+          description: Key in specific keywords. Use compulsory words in quotation marks "
+            " to enhance your search.
+        - title: Step 3
+          description: Browse and select the Tech Resource you are interested in for more
+            details.
 ---

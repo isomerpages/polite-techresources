@@ -1,0 +1,8 @@
+collections:
+  rp:
+    output: true
+    order:
+      - Republic Polytechnic (RP).md
+      - RP Facilities.md
+      - RP Equipment.md
+      - RP Expertise.md
