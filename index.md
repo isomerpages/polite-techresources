@@ -23,4 +23,18 @@ sections:
             url: /equipment/
           - title: Expertise
             url: /expertise/
+  - infocols:
+      title: A guide for better search results
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Step 1
+          description: To begin search, click on the magnifying glass icon at the top
+            right corner.
+        - title: Step 2
+          description: Key in specific keywords. Use compulsory words in quotation marks "
+            " to enhance your search.
+        - title: Step 3
+          description: Browse and select the Tech Resource you are interested in for more
+            details.
 ---
