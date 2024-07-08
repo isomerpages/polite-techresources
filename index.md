@@ -19,6 +19,8 @@ sections:
         options:
           - title: Facilities
             url: /facilities/
+          - title: Equipment
+            url: /equipment/
           - title: ITE
             url: /institute-of-technical-education-ite/
           - title: NP
@@ -31,6 +33,4 @@ sections:
             url: /singapore-polytechnic-sp/
           - title: TP
             url: /temasek-polytechnic-tp/
-          - title: Equipment
-            url: /equipment/
 ---
