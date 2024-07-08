@@ -31,4 +31,6 @@ sections:
             url: /singapore-polytechnic-sp/
           - title: TP
             url: /temasek-polytechnic-tp/
+          - title: Equipment
+            url: /equipment/
 ---
