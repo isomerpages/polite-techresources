@@ -17,6 +17,8 @@ sections:
       dropdown:
         title: Select a category
         options:
+          - title: Facilities
+            url: /facilities/
           - title: ITE
             url: /institute-of-technical-education-ite/
           - title: NP
