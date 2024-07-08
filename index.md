@@ -15,7 +15,7 @@ sections:
       size: md
       alignment: left
       dropdown:
-        title: Select a IHL
+        title: Select a category
         options:
           - title: ITE
             url: /institute-of-technical-education-ite/
