@@ -24,13 +24,13 @@ sections:
           - title: Expertise
             url: /expertise/
   - infocols:
-      title: A guide for better search results
+      title: For better search results
       id: infocols
       linktext: Learn more
       infoboxes:
         - title: Step 1
-          description: To begin search, click on the magnifying glass icon at the top
-            right corner.
+          description: To begin search, click on the magnifying glass or menu icon at the
+            top right corner.
         - title: Step 2
           description: Key in specific keywords. Use compulsory words in quotation marks "
             " to enhance your search.
