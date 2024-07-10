@@ -24,7 +24,7 @@ sections:
           - title: Expertise
             url: /expertise/
   - infocols:
-      title: For better search results
+      title: Enhance Your Search Results with 3 Simple Steps
       id: infocols
       linktext: Learn more
       infoboxes:
