@@ -25,10 +25,10 @@ description: ""
 <p>Dept</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p>Contact</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Contact</p>
+<p>Keywords</p>
 </th>
 </tr>
 <tr>
@@ -39,16 +39,16 @@ description: ""
 <p>GPU servers for AI training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Data centre 2,E5</p>
+<p>SEG, Data centre, E5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jiang Lijun
 <br>Contact: 66971156
 <br>Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -59,15 +59,15 @@ description: ""
 <p>Borescope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13H</p>
+<p>SEG, W13H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jiang Lijun
 <br>Contact: 66971156 Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -78,16 +78,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -98,16 +98,16 @@ description: ""
 <p>for lithium ion battery testing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery testing&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -118,16 +118,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -138,16 +138,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -158,16 +158,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -178,16 +178,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -198,16 +198,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -218,16 +218,16 @@ description: ""
 <p>for lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -238,16 +238,16 @@ description: ""
 <p>material preparation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -258,16 +258,16 @@ description: ""
 <p>material preparation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -278,16 +278,16 @@ description: ""
 <p>material preparation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -298,16 +298,16 @@ description: ""
 <p>for pouch cell lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -318,16 +318,16 @@ description: ""
 <p>for pouch cell lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -338,16 +338,16 @@ description: ""
 <p>for pouch cell lithium ion battery fabrication</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>W13D</p>
+<p>SEG, W13D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>for coin cell or pouch cell lithium ion battery fabrication&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -358,16 +358,16 @@ description: ""
 <p>GPUs for AI model training</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Data centre 2,E6 lab</p>
+<p>SOI, Data centre 2, E6 lab</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Poh Keam
 <br>Contact: 66971277
 <br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -378,16 +378,16 @@ description: ""
 <p>Low power communication network for IoT application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SOI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SOI, Data centre 2, E6 lab</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Poh Keam
 <br>Contact: 66971277
 <br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -401,13 +401,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dr Jenny Chau
 <br>Office: +6566971328
 <br>Email: <a href="mailto:jenny_chau@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jenny_chau@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -421,13 +422,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dr Jenny Chau
 <br>Office: +6566971328
 <br>Email: <a href="mailto:jenny_chau@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jenny_chau@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -441,13 +443,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: <a href="mailto:samuel_aw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_aw@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -461,13 +464,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: <a href="mailto:samuel_aw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_aw@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -481,13 +485,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: <a href="mailto:samuel_aw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_aw@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -501,13 +506,14 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: <a href="mailto:samuel_aw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_aw@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -523,13 +529,14 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email:<a href="mailto:dawn_ong@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_ong@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -543,14 +550,15 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email: <a href="mailto:dawn_ong@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_ong@rp.edu.sg</a>
 </p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -564,13 +572,14 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email:<a href="mailto:dawn_ong@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_ong@rp.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 <tr>
@@ -587,14 +596,15 @@ and Maintainability | Building Inspection | Materials Characterisation
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAS</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Dr Goh Chee Keong
 <br>Office: +6566971186
 <br>Email:<a href="mailto:goh_chee_keong@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_chee_keong@rp.edu.sg</a>
 </p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prior discussion and booking are mandatory, following&nbsp; RP's Test
+and Services Contract.</p>
 </td>
 </tr>
 </tbody>
