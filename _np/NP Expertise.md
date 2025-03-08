@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:YIP_Teck_Hong@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Yip Teck Hong - Thermal -  dynamics - School of Engineering(SOE)</div><div class="isomer-card-description">Reversed heat pump</div><div class="isomer-card-link">Contact: Yip Teck Hong</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:YIP_Teck_Hong@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Yip Teck Hong - Thermal - dynamics - School of Engineering(SOE)</div><div class="isomer-card-description">Reversed heat pump</div><div class="isomer-card-link">Contact: Yip Teck Hong</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:Alex_SEE@np.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Alex See - LabView - School of Engineering(SOE)</div>
@@ -19,7 +19,7 @@ description: ""
 <div class="isomer-card-description">Battery energy storage system for EV fast charging station</div>
 <div class="isomer-card-link">Contact: Zhu Taixiu</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:lml2@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lim Meng Lieh, Nelson - Advanced Manufacturing and Automation Cluster - School of Engineering(SOE)</div><div class="isomer-card-description">Our expertise lies in providing development and  turn-key solutions in system integration and industrial automation for SMEs. The industries that we had collaborated are food, sustainable gas, medical, general automation, cleaning processes, etc. </div><div class="isomer-card-link">Contact: Lim Meng Lieh, Nelson</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:lml2@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lim Meng Lieh, Nelson - Advanced Manufacturing and Automation Cluster - School of Engineering(SOE)</div><div class="isomer-card-description">Our expertise lies in providing development and turn-key solutions in system integration and industrial automation for SMEs. The industries that we had collaborated are food, sustainable gas, medical, general automation, cleaning processes, etc.</div><div class="isomer-card-link">Contact: Lim Meng Lieh, Nelson</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:chua_kuang_chua@np.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">- Health &amp; Medical Technolgy - School of Engineering(SOE)</div>
@@ -28,8 +28,7 @@ and algorithm for biomedical application. We also develop diagnostic application
 leveraging on AI algorithm</div>
 <div class="isomer-card-link">Contact: Chua Kuang Chua</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Li Yan - Artificial Intelligence - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Video analytics for inspection, survellience, and monitoring  
-AI for robot learning</div><div class="isomer-card-link">Contact: Li Yan </div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Li Yan - Artificial Intelligence - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Video analytics for inspection, survellience, and monitoring AI for robot learning</div><div class="isomer-card-link">Contact: Li Yan</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Li Yan - Teleoperation - Robotics Research &amp; Innovation Centre(RRIC)</div>
@@ -60,7 +59,7 @@ Centre(RRIC)</div>
 <div class="isomer-card-description">Computer Vision, Vision Deep Learning</div>
 <div class="isomer-card-link">Contact: Hui Tin Fat and/or Tiaw Joo Kwee</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:Goh_Yun_Long@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Goh Yun Long - Service Robot - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">The service robotics cluster specializes in designing and fabricating robots for service applications, leveraging the Robot Operating System (ROS) for end-to-end development. </div><div class="isomer-card-link">Contact: Goh Yun Long</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:Goh_Yun_Long@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Goh Yun Long - Service Robot - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">The service robotics cluster specializes in designing and fabricating robots for service applications, leveraging the Robot Operating System (ROS) for end-to-end development.</div><div class="isomer-card-link">Contact: Goh Yun Long</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:zhou_xingding@np.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Zhou Xingding - Fermentation and process optimisation - School of Life
