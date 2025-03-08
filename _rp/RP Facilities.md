@@ -14,7 +14,7 @@ for the Arts</div>
 surround sound</div>
 <div class="isomer-card-link">Contact: Lavanath S</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:jose_de_castro@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Immersive ARVR Studio</div><div class="isomer-card-description">Specialised studio with various ARVR setup, including a green screen, Rokko motion capture suit for live motion capture</div><div class="isomer-card-link">Contact: Jose De Castro</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:garion_goh@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Immersive ARVR Studio - School of Technology for the Arts</div><div class="isomer-card-description">Specialised studio with various ARVR setup, including a green screen, Rokko motion capture suit for live motion capture</div><div class="isomer-card-link">Contact: Garion Goh</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:nicholas_chiang@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Supply Chain Innovation Lab - School of Engineering</div><div class="isomer-card-description">Supply Chain Innovation Lab features a series of automated systems and technological solutions such as automatic picking and sorting systems, robotics, AR assisted picking and smart storage systems.</div><div class="isomer-card-link">Contact: Nicholas Chiang</div></div></a>
