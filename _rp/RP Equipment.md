@@ -84,7 +84,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -103,7 +104,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -122,7 +124,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -141,7 +144,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -160,7 +164,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -179,7 +184,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -198,7 +204,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -217,7 +224,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -236,7 +244,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -255,7 +264,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -274,7 +284,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -293,7 +304,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -312,7 +324,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
@@ -331,7 +344,8 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua Contact: 66971058
+<p>Wang Yihua
+<br>Contact: 66971058
 <br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
