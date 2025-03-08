@@ -45,7 +45,10 @@ description: ""
 <p>Data centre 2,E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jiang Lijun</p>
+<p>Name: Jiang Lijun
+<br>Contact: 66971156</p>
+<p>Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +65,9 @@ description: ""
 <p>W13H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jiang Lijun</p>
+<p>Name: Jiang Lijun
+<br>Contact: 66971156 Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +84,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +101,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +118,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +135,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +152,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +169,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +186,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +203,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +220,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +237,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +254,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +271,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -283,7 +288,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -300,7 +305,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Yihua</p>
+<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +322,10 @@ description: ""
 <p>Data centre 2,E6 lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Poh Keam</p>
+<p>Name: Tan Poh Keam
+<br>Contact: 66971277
+<br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +342,10 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Name: Tan Poh Keam
+<br>Contact: 66971277
+<br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
