@@ -4,71 +4,53 @@ permalink: /sp-facilities/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="aircraft" src="/images/1_aircraft.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A320 Flight Simulator - SP/ ELECTRICAL AND ELECTRONIC ENGINEERING (EEE)/Location AE405</div><div class="isomer-card-description">This lab houses the Airbus A320 Flight Simulator and Maintenance Trainer. Students are able to gain an integrated and realistic knowledge on the operations and functions of aircraft electronic systems.</div><div class="isomer-card-link">Visit SP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nano fabrication /cleanroom" src="/images/2_Nano_fabrication.png">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC) - Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">Food Innovation and Resource Centre (FIRC) is the Centre of Innovation (COI) established since 2007 to elevate the capabilities of our local food companies via innovative solutions, resources and trainings.</div><div class="isomer-card-link">Contact: Tan Jia Hui</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Nano Fabrication Lab - SP/ ELECTRICAL AND ELECTRONIC ENGINEERING (EEE)/
-Location: T12A203.</div>
-<div class="isomer-card-description">This lab consists of class 100 &amp; 1000 cleanroom with facilities to
-support all activities related to Wafer Fabrication Process, Nanofabrication,
-Micro Electro-Mechanical Systems (MEMS), and Photovoltaic Cell. It also
-supports R&amp;D project collaboration and training for industry.</div>
-<div class="isomer-card-link">Visit SP</div>
+<div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): Cook Studio - Department
+of Technology, Innovation &amp; Enterprise (TIE)</div>
+<div class="isomer-card-description">This demo kitchen lab is dedicated to formulating and producing shelf-stable
+food product such as sauces, as well as prototypes of alternative protein
+foods, includes 8 sensory booths, each to facilitate consumer and sensory
+studies for market validation. Keywords: Formulating, sensory</div>
+<div class="isomer-card-link">Contact: Tan Jia Hui</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Electronic / Control" src="/images/3_Electronic_control.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Green Mobility Lab - SP/ ELECTRICAL AND ELECTRONIC ENGINEERING (EEE)/ Location: T821</div><div class="isomer-card-description">This lab comes with facilities to learn the operation and control of DC and AC machines under different load conditions. Students can also use the inverter driver system to control electric vehicles.</div><div class="isomer-card-link">Visit SP</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): Pilot Plant - Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">This SFA-licensed Pilot Plant allows food companies to conduct small-batch production for market testing and commercial sale of specific food products. It is equipped with a comprehensive line-up of equipment including a Clean-fill HTST/UHT system, Carbonator for beverages, etc.</div><div class="isomer-card-link">Contact: Tan Jia Hui</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Aeronautical / Aerospace" src="/images/4_Aeronautical_Aerospace.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Aero Hub - SP/MECHANICAL AND AERONAUTICAL ENGINEERING (MAE)</div><div class="isomer-card-description">This includes the Wind Tunnel lab, Aerodynamics lab and Avionics lab. All of SP's airplanes are also housed here such as the Hawker HS125-700A, King Air B90, A4SU Super Skyhawk and Bell UH-1H Helicopter.</div><div class="isomer-card-link">Visit SP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="biology / rehabilitation" src="/images/5_Biology_rehabilitation.png">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): Package - Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">Configured with specialized packaging equipment to facilitate testing of suitable packaging solutions, aiding food companies in determining the shelf-life and quality of their products.</div><div class="isomer-card-link">Contact: Ms. Tan Jia Hui</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bioengineering Lab - SP/MECHANICAL AND AERONAUTICAL ENGINEERING (MAE)/
-Location: T1831</div>
-<div class="isomer-card-description">The Bioengineering Lab has an array of instruments and systems that measure
-physical parameters or biological signals of human bodies (i.e. blood pressure,
-oxygen consumption, electrocardiogram and electromyogram) and simulate
-body systems for both teaching and R&amp;D work.</div>
-<div class="isomer-card-link">Visit SP</div>
+<div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): Mix &amp; Bake - Department
+of Technology, Innovation &amp; Enterprise (TIE)</div>
+<div class="isomer-card-description">This lab is decked with an array of mixing and baking equipment for formulating
+healthy food products that cater to the needs of the ageing population,
+such as high protein baked goods and products compliant with HPB’s HCS
+(Healthier Choice Symbol) regulations.</div>
+<div class="isomer-card-link">Contact: Ms. Tan Jia Hui</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fabrication" src="/images/6_Fabrication.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fab lab (T11C) - SP/MECHANICAL AND AERONAUTICAL ENGINEERING (MAE) /Location: T11C.</div><div class="isomer-card-description">Fablab Central houses the larger equipment like laser cutters, CNC and precision milling, digital flatbed cutting machines and a woodworking workshop.</div><div class="isomer-card-link">Visit SP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Maritime / Engine" src="/images/7_Maritime_engine.png">
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">This lab is well-equipped with a range of analytical equipment, from basic pH and water activity meters to advanced instruments like vapor sorption analyzers and dough rheometers. </div><div class="isomer-card-link">Contact: Tan Jia Hui</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Engine Room Simulator - SP/ SINGAPORE MARITIME ACADEMY (SMA) /Location:
-ISC Level 2.</div>
-<div class="isomer-card-description">In the Full Mission Engine Room Simulator, the comprehensive, realistic,
-interactive and dynamic systems simulate real-world ship propulsion plants.</div>
-<div class="isomer-card-link">Visit SP</div>
+<div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC) - Department of Technology,
+Innovation &amp; Enterprise (TIE)</div>
+<div class="isomer-card-description">This area holds a variety of cold storage equipment including chillers,
+freezers, and humidity chambers for controlled environment incubation and
+accelerated shelf-life testing.</div>
+<div class="isomer-card-link">Contact: Ms. Tan Jia Hui</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime/Navigation" src="/images/8_Maritime_navigation.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Navigation Simulator - SP/ SINGAPORE MARITIME ACADEMY (SMA) /Location: ISC Level 2.</div><div class="isomer-card-description">The Navigation Simulator consists of five Navigating Bridges, three Instructor Stations and Briefing/Debriefing Room. The bridges have a horizontal field of view of 240 degrees and fully equipped with state-of-the-art Computer-Generated Image (CGI) system to create a highly realistic environment.</div><div class="isomer-card-link">Visit SP</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:tan_jia_hui@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Food Innovation &amp; Resource Centre (FIRC): PEI - Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">This workshop is where the Process Engineering Innovation team, comprising Food Process, Mechanical Design, and Electrical &amp; Control Engineers, conceptualizes and designs automation and digitalization solutions to enhance productivity for food SMEs and LLEs in Singapore. </div><div class="isomer-card-link">Contact: Ms. Tan Jia Hui</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime" src="/images/9_Maritime.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Maritime Business Centre - SP/ SINGAPORE MARITIME ACADEMY (SMA) / Location: T1A610A</div><div class="isomer-card-description">A learning space that will provide the opportunity for students to strengthen their analytical skills, think critically on a scenario-based approach, develop them with a strong knowledge of the maritime industry and equip them with IT and problem-solving skills.</div><div class="isomer-card-link">Visit SP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="www.sp.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Maritime" src="/images/10_Maritime.png">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:cynthia_sim@sp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Consumer Chemicals Technology Centre (CCTC) - Department of Technology, Innovation &amp; Enterprise (TIE)</div><div class="isomer-card-description">With&nbsp;a comprehensive suite of cutting-edge equipment and expertise, CCTC strive towards meeting the companies' business goals, through impactful projects that fuels technology with creative inspiration. </div><div class="isomer-card-link">Contact: Ms. Cynthia Sim</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Mailto:vincent_lee@sp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Poly Marina - SP/ SINGAPORE MARITIME ACADEMY (SMA) / Location: 50 West
-Coast Ferry Road.</div>
-<div class="isomer-card-description">The Poly Marina on the West Coast waterfront is equipped with fully enclosed
-and partially enclosed lifeboats capable of being launched from a gravity
-davit as well as life rafts, which are necessary for training.</div>
-<div class="isomer-card-link">Visit SP</div>
+<div class="isomer-card-title">Centre of Excellence in Maritime Safety (CEMS) - Department of Technology,
+Innovation &amp; Enterprise (TIE)</div>
+<div class="isomer-card-description">CEMS collaborates with Singapore Maritime Academy (SMA) and Maritime Port
+of Authority Singapore(MPA), Singapore Maritime Institute (SMI) to develop
+industry-ready solution to assist companies in their digital and work force
+transformation journey.</div>
+<div class="isomer-card-link">Contact: Mr. Vincent Lee</div>
 </div>
 </a>
 </div>
