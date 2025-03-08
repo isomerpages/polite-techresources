@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto: ritu_bhalla@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ritu Bhalla, Agriculture Research and Innovation Centre - AGRI</div><div class="isomer-card-description">- aims to help local farms increase crop production and enhance farm operations - fostering a stronger partnership between academia and industry in supporting Singapore's '30 by 30' goal for food security through our extensive research and development work </div><div class="isomer-card-link">Contact: Ritu Bhalla</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto: ritu_bhalla@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ritu Bhalla, Agriculture Research and Innovation Centre - AGRI</div><div class="isomer-card-description">- aims to help local farms increase crop production and enhance farm operations - fostering a stronger partnership between academia and industry in supporting Singapore's '30 by 30' goal for food security through our extensive research and development work</div><div class="isomer-card-link">Contact: Ritu Bhalla</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:dawn_ong@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dawn Ong, Chemicals and Materials Innovation Centre - School of Applied
