@@ -4,7 +4,6 @@ permalink: /sp-equipment/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Work in Progress</strong></h1>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
