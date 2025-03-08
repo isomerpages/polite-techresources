@@ -22,7 +22,7 @@ description: ""
 <p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Department</p>
+<p>Dept</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Location</p>
@@ -45,7 +45,7 @@ description: ""
 <p>Data centre 2,E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Jiang Lijun
+<p>Jiang Lijun
 <br>Contact: 66971156</p>
 <p>Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
@@ -65,7 +65,7 @@ description: ""
 <p>W13H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Jiang Lijun
+<p>Jiang Lijun
 <br>Contact: 66971156 Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
 </td>
@@ -84,7 +84,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +254,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@ description: ""
 <p>W13D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
+<p>Wang Yihua Contact: 66971058Email: wang_yihua@rp.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ description: ""
 <p>Data centre 2,E6 lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Tan Poh Keam
+<p>Tan Poh Keam
 <br>Contact: 66971277
 <br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
 </p>
@@ -342,7 +342,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Tan Poh Keam
+<p>Tan Poh Keam
 <br>Contact: 66971277
 <br>Email:<a href="mailto:tan_poh_keam@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_keam@rp.edu.sg</a>
 </p>
@@ -362,7 +362,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Dr Jenny Chau
+<p>Dr Jenny Chau
 <br>Office: +6566971328
 <br>Email: jenny_chau@rp.edu.sg</p>
 </td>
@@ -381,7 +381,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Dr Jenny Chau
+<p>Dr Jenny Chau
 <br>Office: +6566971328
 <br>Email: jenny_chau@rp.edu.sg</p>
 </td>
@@ -400,7 +400,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Mr Samuel Aw
+<p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: samuel_aw@rp.edu.sg</p>
 </td>
@@ -419,7 +419,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Mr Samuel Aw
+<p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: samuel_aw@rp.edu.sg</p>
 </td>
@@ -438,7 +438,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Mr Samuel Aw
+<p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: samuel_aw@rp.edu.sg</p>
 </td>
@@ -457,7 +457,7 @@ description: ""
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Mr Samuel Aw
+<p>Mr Samuel Aw
 <br>Office: +6566971937
 <br>Email: samuel_aw@rp.edu.sg</p>
 </td>
@@ -478,7 +478,7 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Ms Dawn Ong
+<p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email: dawn_ong@rp.edu.sg</p>
 </td>
@@ -497,7 +497,7 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Ms Dawn Ong
+<p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email: dawn_ong@rp.edu.sg</p>
 </td>
@@ -516,7 +516,7 @@ Economy</p>
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Ms Dawn Ong
+<p>Ms Dawn Ong
 <br>Office: +6566971628
 <br>Email: dawn_ong@rp.edu.sg</p>
 </td>
@@ -538,7 +538,7 @@ and Maintainability | Building Inspection | Materials Characterisation
 <p>SAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Dr Goh Chee Keong
+<p>Dr Goh Chee Keong
 <br>Office: +6566971186
 <br>Email: goh_chee_keong@rp.edu.sg</p>
 </td>
