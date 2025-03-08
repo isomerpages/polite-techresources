@@ -23,13 +23,5 @@ and packaging, Supporting customized reliability test requirement.</div>
 solutions.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Product Solution - TDC, ITE College Central</div><div class="isomer-card-description">'One-stop solution of product design, engineering and integration, covering: -- Rapid prototype and engineering -- Mechanical, electrical and PCB design and Software development -- Electronics hardware development</div><div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Utility and Environment Monitoring and Control - TDC, ITE College Central</div>
-<div class="isomer-card-description">Building and construction site utility and climate monitoring and control.
-Environmental sanitation and health status monitoring and control.</div>
-<div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div>
-</div>
-</a>
 </div>
 <p></p>
