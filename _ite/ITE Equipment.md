@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -26,299 +27,438 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Keywords</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;IT200LV SEM (JEOL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SEM with EDX&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SEM, EDX</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>UAG-IC Univeral Tester(Shimadzu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>100kN Tensile Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Tensile tester</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Q20 DSC (TA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Differential Scanning Calorimetry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>DSC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Q400 TMA&nbsp; (TA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thermo Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>TMA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Q50 TGA (TA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Thermogravimetry Gravimetry Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>TGA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DMA1 (METTLER TOLEDO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dynamic Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>DMA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HMV-G20S (SHIMADZU)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Micro Vickers Hardness Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Vickers Micro Hardness</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DAGE 5000 (DAGE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bond tester for microelectronics.&nbsp; Wire bond pull test, ball shear,
+die shear</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ball bond tester, wire bond pull tester, die shear tester</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HI5522 (HANNA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>pH meter, electrical conductvity tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>pH meter, electrical conductivity tester</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>VISCOQC 100 (ANTON PARR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Rotational viscometer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Viscometer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>XD 6600 X-RAY (DAGE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>X-ray inspection system</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Technology Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>X-ray</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EDDY CURRENT ELECTRICAL CONDUCTIVITY METER (FOERSTER)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Electrical conductivity meter for non ferrous metal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Electrical conductivity meter</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STM-6 MEASUREING MICROSCOPE (OLYMPUS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tool maker measuring microscope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>measuring microscope</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TCC-150W (ESPEC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temperature Cycling Chamber</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>temperature cycling chamber, reliability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH-222 (ESPEC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temperature humidity chamber</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>temperature humidity chamber, reliability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PC-242HS-A/V (HIRAYAMA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pressure cooker test chamber, 121 degC, 100%RH,&nbsp; 2atm,</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PCT, reliability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAT6400 (MAT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Flip chip bonder&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>flip chip bonder, semicon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BM-W630 (DEKTEC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6-zone reflow oven</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>reflow oven, semicon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AM410 (ANT SCIENTIFIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Planetary Ball miller</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>planetary ball miller</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>J35 PRO (STRATASYS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3D printer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3d printer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MILLING MACHINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Milling machine for fabrication&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>milling, drilling, fabrication</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>METAL-X (MARKFORGE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Metal 3D printer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Development Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General enquiry
+<br>cc_tdc@ite.edu.sg
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>metal 3d printer</p>
 </td>
 </tr>
 </tbody>
