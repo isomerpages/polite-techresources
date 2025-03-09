@@ -4,8 +4,9 @@ permalink: /tp-facilities/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/clean-energy-research-centre-cerc.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Clean Energy Research Centre Laboratories - School of Engineering</div><div class="isomer-card-description">CERC assists partners to develop PEM fuel cells and battery management systems for various industrial applications.  We can also develop environmentally friendly battery recycling systems. </div><div class="isomer-card-link">Visit CERC</div></div></a>
+<p>Contact: Teow Yiwei, 6780 4263, Email: <a href="mailto:teow_yiwei@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_yiwei@tp.edu.sg</a>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/clean-energy-research-centre-cerc.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Clean Energy Research Centre Laboratories - School of Engineering</div><div class="isomer-card-description">CERC assists partners to develop PEM fuel cells and battery management systems for various industrial applications. We can also develop environmentally friendly battery recycling systems.</div><div class="isomer-card-link">Visit CERC</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-applied-science/centre-for-urban-sustainability.html" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Centre for Urban Sustainability Laboratories - School of Applied Science</div>
@@ -24,7 +25,7 @@ health management solutions, including rapid diagnostic kits, disease treatment
 and prevention strategies.</div>
 <div class="isomer-card-link">Visit AIC</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-applied-science/centre-for-applied-nutrition-services-cans.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Centre for Applied Nutrition Services Laboratories - School of Applied Science</div><div class="isomer-card-description">CANS develops healthier food products, including meals and staples (noodles), and specialised meals for healthy subjects and patients.  We are the only accredited centre in Singapore for glycemic index testing for food products.</div><div class="isomer-card-link">Visit CANS</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-applied-science/centre-for-applied-nutrition-services-cans.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Centre for Applied Nutrition Services Laboratories - School of Applied Science</div><div class="isomer-card-description">CANS develops healthier food products, including meals and staples (noodles), and specialised meals for healthy subjects and patients. We are the only accredited centre in Singapore for glycemic index testing for food products.</div><div class="isomer-card-link">Visit CANS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-applied-science/centre-for-applied-nutrition-services-cans.html" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Centre for Applied Nutrition Services Laboratories - School of Applied
@@ -34,7 +35,7 @@ and specialised meals for healthy subjects and patients. We are the only
 accredited centre in Singapore for glycemic index testing for food products.</div>
 <div class="isomer-card-link">Visit CANS</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centre-of-innovation-of-complementary-health-products-coi-chp.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Centre for Complementary Health Products Laboratories - School of Applied Science</div><div class="isomer-card-description">CCHP supports enterprises in the provision of innovative and customised solutions to enhance the safety, efficacy and quality standards of complementary health products.  </div><div class="isomer-card-link">Visit CCHP</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centre-of-innovation-of-complementary-health-products-coi-chp.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Centre for Complementary Health Products Laboratories - School of Applied Science</div><div class="isomer-card-description">CCHP supports enterprises in the provision of innovative and customised solutions to enhance the safety, efficacy and quality standards of complementary health products.</div><div class="isomer-card-link">Visit CCHP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/healthcare-engineering-centre-hec.html" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Healthcare Engineering Centre Laboratories - School of Engineering</div>
@@ -43,7 +44,7 @@ human health diagnosis and monitoring. We also develop flexible and wearable
 sensors for health analysis and various applications</div>
 <div class="isomer-card-link">Visit HEC</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/robotics-automation-centre-rac.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Robotics and Automation Centre Laboratories - School of Engineering</div><div class="isomer-card-description">RAC develops customisable robots and automation systems for industry for use in manufacturing, construction, healthcare &amp; service, facilities management industries.  </div><div class="isomer-card-link">Visit RAC</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/robotics-automation-centre-rac.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Robotics and Automation Centre Laboratories - School of Engineering</div><div class="isomer-card-description">RAC develops customisable robots and automation systems for industry for use in manufacturing, construction, healthcare &amp; service, facilities management industries.</div><div class="isomer-card-link">Visit RAC</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/aviation-research-centre-arc.html" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Aviation Research Centre Laboratories - School of Engineering</div>
@@ -60,7 +61,7 @@ productivity and monitor sustainability performance. We also implement
 predictive analytics solutions for the industry to facilitate their operations.</div>
 <div class="isomer-card-link">Visit AMC</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/digital-fabrication-additive-manufacturing-centre-dfamc.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital Fabrication and Additive Manufacturnig Centre Laboratories - School of Engineering</div><div class="isomer-card-description">DFAMC supports companies to adopt additive manufacturing as a novel production method.  Our support ranges from design, pre-processing, production to post-processing. </div><div class="isomer-card-link">Visit DFAMC</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/digital-fabrication-additive-manufacturing-centre-dfamc.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital Fabrication and Additive Manufacturnig Centre Laboratories - School of Engineering</div><div class="isomer-card-description">DFAMC supports companies to adopt additive manufacturing as a novel production method. Our support ranges from design, pre-processing, production to post-processing.</div><div class="isomer-card-link">Visit DFAMC</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tp.edu.sg/research-and-industry/centres-of-excellence/centres-under-school-of-engineering/enabling-technology-collaboratory-etc.html" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Enabling Technology Collaboratory Laboratories - School of Engineering</div>
