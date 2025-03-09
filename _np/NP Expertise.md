@@ -103,12 +103,5 @@ to healthier and more sustainable living and working environments.</div>
 <div class="isomer-card-link">Contact: Dr Palaniswamy Suresh Kumar</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="Mailto:GOH_Shuwen@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Shuwen - Water Management - Centre for Environmental Sustainability(CfES)</div><div class="isomer-card-description">Our expertise lies in developing innovative water recycling and reuse strategies, extracting valuable resources from liquid waste, and advancing drinking water treatment technologies. Additionally, we focus on functional membrane development to enhance water purification and treatment efficiency.</div><div class="isomer-card-link">Contact: Dr Goh Shuwen</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
 </div>
 <p></p>
