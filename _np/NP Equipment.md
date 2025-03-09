@@ -2025,8 +2025,5 @@ the system in next few months)</p>
 </tbody>
 </table>
 <p></p>
-<p><a href="Mailto:MAUNG_Tin_Win@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Contact: Maung Tin Win/Cfes</a>
-</p>
-<p></p>
 <p></p>
 <p></p>
