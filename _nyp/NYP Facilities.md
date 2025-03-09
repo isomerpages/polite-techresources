@@ -5,12 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:desmond_tan@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Additive Manufacturing Innovation Centre - School of Engineering</div><div class="isomer-card-description">Supports national Additive Manufacturing (AM) initiatives by:
-
-1.Promoting industry AM adoption
-2.Developing core capabilities in Design for AM optimization
-3.Advancing process innovation
-4.Supporting NYP's Pre-Employment Training (PET) and Continuing Education and Training (CET) programmes</div><div class="isomer-card-link">Contact: Desmond Tan</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:desmond_tan@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Additive Manufacturing Innovation Centre - School of Engineering</div><div class="isomer-card-description">Supports national Additive Manufacturing (AM) initiatives by:</div><div class="isomer-card-link">Contact: Desmond Tan</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:Richard_Khaw@nyp.edu.sg; seng_eng_khuan@nyp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Centre for Aquaculture Diagnostics &amp; Vaccines (CADV) - School of Applied
@@ -37,7 +32,7 @@ provides AI expertise and training. It develops industry use cases, upskills
 workforce, and promotes AI adoption, especially among SMEs.</div>
 <div class="isomer-card-link">Contact: Dr Sophia Wei</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:kent_loo@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NYP-StarHub Application &amp; Experience Centre for 5G (APEX 5G) - School of Engineering</div><div class="isomer-card-description">NYP-StarHub APEX 5G Centre: All-in-one facility for talent training, industry co-development, and 5G use case testing. Utilises StarHub's 5G SA network. </div><div class="isomer-card-link">Contact: Kent Loo</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:kent_loo@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NYP-StarHub Application &amp; Experience Centre for 5G (APEX 5G) - School of Engineering</div><div class="isomer-card-description">NYP-StarHub APEX 5G Centre: All-in-one facility for talent training, industry co-development, and 5G use case testing. Utilises StarHub's 5G SA network.</div><div class="isomer-card-link">Contact: Kent Loo</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:laura_chua@nyp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Media Hub &amp; Studio - School of Business &amp; Management</div>
@@ -67,7 +62,7 @@ convenience store ~E-commerce specialist lab ~Focuses on integrating modern
 retail technologies and strategies.</div>
 <div class="isomer-card-link">Contact: Ms Angela Cheng or Mr James Sim</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:fion_ngiam@nyp.edu.sg; terence_yiew@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CareerLink - School of Business &amp; Management</div><div class="isomer-card-description">Provides HR consultancy services addressing modern organisational challenges. </div><div class="isomer-card-link">Contact: Mr Fion Ngiam or Mr Terence Yiew</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="Mailto:fion_ngiam@nyp.edu.sg; terence_yiew@nyp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CareerLink - School of Business &amp; Management</div><div class="isomer-card-description">Provides HR consultancy services addressing modern organisational challenges.</div><div class="isomer-card-link">Contact: Mr Fion Ngiam or Mr Terence Yiew</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:karthik_bakthavathsalem@nyp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">L’Rez Training Restaurant - School of Business &amp; Management</div>
