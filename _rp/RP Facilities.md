@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:chua_kim_chye@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Foley Art Studio - School of Technology for the Arts</div><div class="isomer-card-description">Specialised studio for generating and recording of sound effects for a variety for situation, for films, games, etc.</div><div class="isomer-card-link">Contact: Chua Kim Chye</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:chua_kim_chye@rp.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Foley Art Studio - School of Technology for the Arts</div><div class="isomer-card-description">Specialised studio for generating and recording of sound effects for a variety for situation, for films, games, etc.</div><div class="isomer-card-link">Contact: Chua Kim Chye, Tel: 1234567</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:lavanath_s@rp.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Immersive Audio Suite with Home Dolby Atmos capability - School of Technology
