@@ -44,7 +44,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Jiang Lijun
 <br>Contact: 66971156
-<br>Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
+<br><a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Jiang Lijun
-<br>Contact: 66971156 Email:<a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
+<br>Contact: 66971156 <a href="mailto:jiang_lijun@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang_lijun@rp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
-<br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
+<br><a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Wang Yihua
 <br>Contact: 66971058
-<br>Email:<a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
+<br><a href="mailto:wang_yihua@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_yihua@rp.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
