@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -21,29 +22,14 @@ description: ""
 <p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p>Dept</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Agilent Q-TOF-LCMS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This state-of-the art equipment is used for chemical characterisation.&nbsp;
-It can achieve low femtogram (10-15)-level sensitivity with high resolution
-and accurate mass.&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ASC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Keywords</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,12 +40,15 @@ and accurate mass.&nbsp;&nbsp;</p>
 technique used to separate non-volatile mixtures.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HPTLC</p>
 </td>
 </tr>
 <tr>
@@ -70,12 +59,15 @@ technique used to separate non-volatile mixtures.</p>
 <p>Qualitative and quantitative analysis of aqueous and organic samples</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HPLC System with DAD and RI Detector</p>
 </td>
 </tr>
 <tr>
@@ -86,12 +78,15 @@ technique used to separate non-volatile mixtures.</p>
 <p>Separating and analyzing volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shimadzu QP-2010 Plus Gas Chromatograph - Mass Spectrometer&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -102,12 +97,15 @@ technique used to separate non-volatile mixtures.</p>
 <p>Separating and analyzing volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gas Chromatography with Flame Ionization Detector and Auto-Injector</p>
 </td>
 </tr>
 <tr>
@@ -118,12 +116,15 @@ technique used to separate non-volatile mixtures.</p>
 <p>Separating and analyzing non-volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>High Performance Liquid Chromatography (HPLC)</p>
 </td>
 </tr>
 <tr>
@@ -134,12 +135,15 @@ technique used to separate non-volatile mixtures.</p>
 <p>Analysis of metal concentrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Atomic Absorption Spectrometer</p>
 </td>
 </tr>
 <tr>
@@ -151,12 +155,15 @@ technique used to separate non-volatile mixtures.</p>
 liquid or gas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FTIR IR Shimadzu Prestige-21 NIR System With AIM8800 Upgrade Kit</p>
 </td>
 </tr>
 <tr>
@@ -168,12 +175,16 @@ liquid or gas</p>
 <p>Analysis of trace metals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES) Optima
+7000DV w Cross Flow Sample Introduction System</p>
 </td>
 </tr>
 <tr>
@@ -187,12 +198,15 @@ labs materials. It can be used to examine delimitations, cracks and other
 anomalies nondestructively.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TG-DTA/DSC Analyzer Labsys EVO</p>
 </td>
 </tr>
 <tr>
@@ -203,12 +217,15 @@ anomalies nondestructively.</p>
 <p>Quantitative analysis of aqueous samples</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microscope - Metallurgical Inspection</p>
 </td>
 </tr>
 <tr>
@@ -220,12 +237,15 @@ anomalies nondestructively.</p>
 difficult-to-transfect cells.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Invitrogen Transfection System</p>
 </td>
 </tr>
 <tr>
@@ -236,12 +256,15 @@ difficult-to-transfect cells.</p>
 <p>Automated cell counter for cell counting process</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olympus Cell Counter</p>
 </td>
 </tr>
 <tr>
@@ -253,12 +276,15 @@ difficult-to-transfect cells.</p>
 Able to take pictures &amp; videos.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olympus BX53 Upright Fluorescence Microscope</p>
 </td>
 </tr>
 <tr>
@@ -269,12 +295,15 @@ Able to take pictures &amp; videos.</p>
 <p>Protein analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isoelectric focusing gel electrophoresis</p>
 </td>
 </tr>
 <tr>
@@ -285,12 +314,15 @@ Able to take pictures &amp; videos.</p>
 <p>Block PCR, Gradient PCR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PCR Machine&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -301,12 +333,15 @@ Able to take pictures &amp; videos.</p>
 <p>Real time PCR&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Real time PCR</p>
 </td>
 </tr>
 <tr>
@@ -317,12 +352,15 @@ Able to take pictures &amp; videos.</p>
 <p>96 well plate reader for ELISA application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tecan Plate Reader&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -333,12 +371,15 @@ Able to take pictures &amp; videos.</p>
 <p>Microliter liquid dispensing machine&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ASC</p>
+<p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biodot Liquid handling station&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -351,12 +392,16 @@ Able to take pictures &amp; videos.</p>
 <br>https://www.eos.info/eos-m290</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Metal 3D Printer
+<br>(EOS M290)</p>
 </td>
 </tr>
 <tr>
@@ -369,12 +414,16 @@ Able to take pictures &amp; videos.</p>
 height</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Informatics &amp; IT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Metal 3D Printer
+<br>(Sisma MySint100)</p>
 </td>
 </tr>
 <tr>
@@ -393,6 +442,9 @@ height</p>
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Prototyping - 3D Printing Machine (Flashforge Creator Pro)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -403,12 +455,15 @@ height</p>
 <br>https://www.cati.com/3d-printing/objet-eden-printers/eden-260v/</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Additive - 3D Printing Machine (EDEN 260V)</p>
 </td>
 </tr>
 <tr>
@@ -420,12 +475,16 @@ MDX-540A</p>
 <p>Produces 3D model by removal technique using cutting tools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subtractive -&nbsp; Rapid Prototyping Machine with T-Slot Table Etc Roland
+MDX-540A</p>
 </td>
 </tr>
 <tr>
@@ -443,12 +502,15 @@ of the bombardment of the target by high energy particles like Ar ions.
 bio-mems. Solar panel, solar cell</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ultra High Vacuum Multifunctional Magnetron Sputtering System</p>
 </td>
 </tr>
 <tr>
@@ -468,12 +530,15 @@ chips and cracks associated with mechanical processing are avoided.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diode Pumped Solid State 355nm UV Laser Processing System</p>
 </td>
 </tr>
 <tr>
@@ -495,12 +560,15 @@ fabrication.
 <br>•&nbsp;&nbsp;&nbsp;&nbsp; Solar panel fabrication.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-beam evaporator</p>
 </td>
 </tr>
 <tr>
@@ -522,12 +590,15 @@ composition.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scanning Electron Microscope</p>
 </td>
 </tr>
 <tr>
@@ -549,12 +620,15 @@ step heights and other dimensions.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Atomic Force Microscope</p>
 </td>
 </tr>
 <tr>
@@ -568,12 +642,15 @@ certain material emits energy detectable as visible light when irradiated
 with the light of a specific wavelength.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENG</p>
+<p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microscope - Fluorescent&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -585,12 +662,15 @@ with the light of a specific wavelength.&nbsp;</p>
 firing from 1000 to 1250 degrees celcius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ceramic Kiln</p>
 </td>
 </tr>
 <tr>
@@ -604,12 +684,15 @@ roughen a smooth surface, shape a surface, or remove surface&nbsp;contaminants
 like paint or rust.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dry Sandblasting Machine</p>
 </td>
 </tr>
 <tr>
@@ -623,12 +706,15 @@ The&nbsp; work piece is sat on a front bench that can be adjusted to various
 angles.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sanding Machine (Disc &amp; Bobbin)</p>
 </td>
 </tr>
 <tr>
@@ -641,12 +727,15 @@ like wood, plastics, paper. A drawing can be generated&nbsp; and send to
 the machine to do intricate and fine cutting.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CO2 Laser Cutting System</p>
 </td>
 </tr>
 <tr>
@@ -657,12 +746,15 @@ the machine to do intricate and fine cutting.</p>
 <p>For printing patterns and design directly onto fabric</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Textile Plotter / Printer</p>
 </td>
 </tr>
 <tr>
@@ -675,12 +767,15 @@ and rastor on materials like wood, plastics, paper. A drawing can be generated&n
 and send to the machine to do intricate and fine cutting.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DES</p>
+<p>School of Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Staff: Teow Yiwei
 <br>Office: 6780 4263
 <br>Email: teow_yiwei@tp.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CO2 Laser Engraving System</p>
 </td>
 </tr>
 </tbody>
