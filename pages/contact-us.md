@@ -15,11 +15,11 @@ contacts:
   - content:
       - phone: ""
       - email: asktsb@np.edu.sg
-      - other: 'If the form below is not loaded, you can also fill it in at <a
-          href="https://form.gov.sg/67dd35ab06e19eaa650e2dc0">here</a>. <iframe
-          style="width: 250%; height: 500px"
+      - other: '    <iframe style="width: 250%; height: 500px"
           src="https://form.gov.sg/67dd35ab06e19eaa650e2dc0"
-          id="iframe"></iframe>'
+          id="iframe"></iframe>  <div style="font-family:
+          Sans-Serif;     font-size: 12px;     color: #999;     opacity:
+          0.5;     padding-top: 5px;"></div>'
     title: General Enquiries
 feedback: ""
 ---
