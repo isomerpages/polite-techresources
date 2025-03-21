@@ -14,13 +14,12 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: askpolite@np.edu.sg
-      - other: '<br><iframe style="width: 250%; height: 2000px"
-          src="https://form.gov.sg/664af5e05da410126003303a"
-          id="iframe"></iframe>  <div style="font-family:
-          Sans-Serif;     font-size: 12px;     color: #999;     opacity:
-          0.5;     padding-top: 5px;">   Powered by <a style="color: #999"
-          href="https://form.gov.sg">Form</a> </div>'
+      - email: asktsb@np.edu.sg
+      - other: 'If the form below is not loaded, you can also fill it in at <a
+          href="https://form.gov.sg/67dd35ab06e19eaa650e2dc0">here</a>. <iframe
+          style="width: 250%; height: 500px"
+          src="https://form.gov.sg/67dd35ab06e19eaa650e2dc0"
+          id="iframe"></iframe>'
     title: General Enquiries
 feedback: ""
 ---
