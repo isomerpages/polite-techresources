@@ -15,7 +15,7 @@ contacts:
   - content:
       - phone: ""
       - email: asktsb@np.edu.sg
-      - other: '    <iframe style="width: 250%; height: 500px"
+      - other: '<iframe style="width: 200%; height: 500px"
           src="https://form.gov.sg/67dd35ab06e19eaa650e2dc0"
           id="iframe"></iframe>  <div style="font-family:
           Sans-Serif;     font-size: 12px;     color: #999;     opacity:
