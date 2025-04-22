@@ -62,8 +62,8 @@ accredited centre in Singapore for glycemic index testing for food products.</di
 <div class="isomer-card-body">
 <div class="isomer-card-title">Chemical &amp; Biological Analysis, TCM, Complementary health products,
 safety, authenticity, efficacy, herbs, in vivo and in vitro testing - Centre
-of Innovation for Complementary Health Products (COI CHP)</div>
-<div class="isomer-card-description">COI CHP supports enterprises in the provision of innovative and customised
+for Complementary Health Product (CCHP)</div>
+<div class="isomer-card-description">CCHP supports enterprises in the provision of innovative and customised
 solutions to enhance the safety, efficacy and quality standards of complementary
 health products.</div>
 </div>
