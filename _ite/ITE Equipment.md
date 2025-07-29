@@ -4,11 +4,11 @@ permalink: /ite-equipment/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<table style="minWidth: 125px">
+<p>For General enquiries, contact Technology Development Centre (TDC) at
+<a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -22,12 +22,6 @@ description: ""
 <p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Dept</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Keywords</p>
 </th>
 </tr>
@@ -37,16 +31,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>SEM with EDX&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEM, EDX</p>
@@ -60,13 +44,6 @@ description: ""
 <p>100kN Tensile Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Tensile tester</p>
 </td>
 </tr>
@@ -76,16 +53,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Differential Scanning Calorimetry</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DSC</p>
@@ -99,13 +66,6 @@ description: ""
 <p>Thermo Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>TMA</p>
 </td>
 </tr>
@@ -115,16 +75,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Thermogravimetry Gravimetry Analyser</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TGA</p>
@@ -138,13 +88,6 @@ description: ""
 <p>Dynamic Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>DMA</p>
 </td>
 </tr>
@@ -154,16 +97,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Micro Vickers Hardness Tester</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vickers Micro Hardness</p>
@@ -178,13 +111,6 @@ description: ""
 die shear</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ball bond tester, wire bond pull tester, die shear tester</p>
 </td>
 </tr>
@@ -194,13 +120,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pH meter, electrical conductivity tester</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>pH meter, electrical conductivity tester</p>
@@ -214,16 +133,6 @@ die shear</p>
 <p>Rotational viscometer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Viscometer</p>
 </td>
 </tr>
@@ -233,13 +142,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>X-ray inspection system</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>X-ray</p>
@@ -253,16 +155,6 @@ die shear</p>
 <p>Electrical conductivity meter for non ferrous metal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Electrical conductivity meter</p>
 </td>
 </tr>
@@ -272,16 +164,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tool maker measuring microscope</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>measuring microscope</p>
@@ -295,13 +177,6 @@ die shear</p>
 <p>Temperature Cycling Chamber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>temperature cycling chamber, reliability</p>
 </td>
 </tr>
@@ -311,16 +186,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Temperature humidity chamber</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>temperature humidity chamber, reliability</p>
@@ -334,13 +199,6 @@ die shear</p>
 <p>Pressure cooker test chamber, 121 degC, 100%RH,&nbsp; 2atm,</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>PCT, reliability</p>
 </td>
 </tr>
@@ -350,16 +208,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flip chip bonder&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>flip chip bonder, semicon</p>
@@ -373,13 +221,6 @@ die shear</p>
 <p>6-zone reflow oven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>reflow oven, semicon</p>
 </td>
 </tr>
@@ -389,13 +230,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Planetary Ball miller</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>planetary ball miller</p>
@@ -409,16 +243,6 @@ die shear</p>
 <p>3D printer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3d printer</p>
 </td>
 </tr>
@@ -430,13 +254,6 @@ die shear</p>
 <p>Milling machine for fabrication&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>milling, drilling, fabrication</p>
 </td>
 </tr>
@@ -446,16 +263,6 @@ die shear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Metal 3D printer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technology Development Centre (TDC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General enquiry
-<br>cc_tdc@ite.edu.sg
-<br>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>metal 3d printer</p>
