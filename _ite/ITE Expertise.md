@@ -4,7 +4,8 @@ permalink: /ite-expertise/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>For genral enquiries, contact <a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Materials Lab - TDC, ITE College Central</div><div class="isomer-card-description">Melting/Casting of materials. Materials formulation, Sample preparation, metallurgy and microstructural investigation, Mechanical and thermal properties, failure analysis, Processing-structure-property relationship.</div><div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
