@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Materials Lab - TDC, ITE College Central</div><div class="isomer-card-description">The lab focuses on processing and formulation of various materials such as metals, polymers and composite materials. Materials processing and characterization, metallurgy and microstructural analysis, mechanical testing, thermal testing and failure analysis can be done.</div><div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Materials Lab - TDC, ITE College Central</div><div class="isomer-card-description">The lab focuses on the processing and formulation of various materials, such as metals, polymers, and composite materials. It supports materials processing and characterization, metallurgy and microstructural analysis, mechanical testing, thermal testing, and failure analysis.</div><div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Semiconductor packaging ecosystem: TDC, ITE College Central</div>
