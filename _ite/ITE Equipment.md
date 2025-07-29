@@ -33,13 +33,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;IT200LV SEM (JEOL)</p>
+<p>IT200LV SEM (JEOL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEM with EDX&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -54,13 +54,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>UAG-IC Univeral Tester(Shimadzu)</p>
+<p>UAG-IC Universal Tester(Shimadzu)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100kN Tensile Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -78,7 +78,7 @@ description: ""
 <p>Differential Scanning Calorimetry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -99,7 +99,7 @@ description: ""
 <p>Thermo Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -117,7 +117,7 @@ description: ""
 <p>Thermogravimetry Gravimetry Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -138,7 +138,7 @@ description: ""
 <p>Dynamic Mechanical Analyser</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -156,7 +156,7 @@ description: ""
 <p>Micro Vickers Hardness Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -178,7 +178,7 @@ description: ""
 die shear</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -193,10 +193,10 @@ die shear</p>
 <p>HI5522 (HANNA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pH meter, electrical conductvity tester</p>
+<p>pH meter, electrical conductivity tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -214,7 +214,7 @@ die shear</p>
 <p>Rotational viscometer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -235,7 +235,7 @@ die shear</p>
 <p>X-ray inspection system</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -253,7 +253,7 @@ die shear</p>
 <p>Electrical conductivity meter for non ferrous metal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -274,7 +274,7 @@ die shear</p>
 <p>Tool maker measuring microscope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -295,7 +295,7 @@ die shear</p>
 <p>Temperature Cycling Chamber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -313,7 +313,7 @@ die shear</p>
 <p>Temperature humidity chamber</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -334,7 +334,7 @@ die shear</p>
 <p>Pressure cooker test chamber, 121 degC, 100%RH,&nbsp; 2atm,</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -352,7 +352,7 @@ die shear</p>
 <p>Flip chip bonder&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -373,7 +373,7 @@ die shear</p>
 <p>6-zone reflow oven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -391,7 +391,7 @@ die shear</p>
 <p>Planetary Ball miller</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -409,7 +409,7 @@ die shear</p>
 <p>3D printer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -430,7 +430,7 @@ die shear</p>
 <p>Milling machine for fabrication&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
@@ -448,7 +448,7 @@ die shear</p>
 <p>Metal 3D printer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Technology Development Centre</p>
+<p>Technology Development Centre (TDC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General enquiry
