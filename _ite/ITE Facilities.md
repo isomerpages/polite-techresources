@@ -4,7 +4,8 @@ permalink: /ite-facilities/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>For general enquiries, contact: <a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Materials Lab - TDC, ITE College Central</div><div class="isomer-card-description">The lab focuses on the processing and formulation of various materials, such as metals, polymers, and composite materials. It supports materials processing and characterization, metallurgy and microstructural analysis, mechanical testing, thermal testing, and failure analysis.</div><div class="isomer-card-link">General enquiry: cc_tdc@ite.edu.sg</div></div></a>
 <a rel="noopener noreferrer nofollow" href="Mailto:cc_tdc@ite.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
