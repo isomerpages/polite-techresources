@@ -35,13 +35,11 @@ description: ""
 <p>Agriculture Research and Innovation Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- aims to help local farms increase crop production and enhance
-farm operations
-<br>&nbsp;- fostering a stronger partnership between academia and industry
-in supporting
-<br>&nbsp;&nbsp; Singapore's '30 by 30' goal for food security through our
-extensive research and
-<br>&nbsp; development work
+<p>- aims to help local farms increase crop production and enhance farm operations
+<br>- fostering a stronger partnership between academia and industry in supporting
+<br>Singapore's '30 by 30' goal for food security through our extensive research
+and
+<br>development work
 <br>https://www.rp.edu.sg/agri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,12 +60,12 @@ extensive research and
 <p>Chemicals and Materials Innovation Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Smart materials for agriculture applications
-<br>&nbsp;- Functional materials development for self-cleaning
-<br>&nbsp;- Additive manufacturing for polymers and composites
-<br>&nbsp;- Sustainable composites with sound absorption properties
-<br>&nbsp;- Sustainable materials for packaging industry
-<br>&nbsp;- Novel materials for personal care and home care applications
+<p>- Smart materials for agriculture applications
+<br>- Functional materials development for self-cleaning
+<br>- Additive manufacturing for polymers and composites
+<br>- Sustainable composites with sound absorption properties
+<br>- Sustainable materials for packaging industry
+<br>- Novel materials for personal care and home care applications
 <br>https://www.rp.edu.sg/sas/industry/chemicals-and-materials-innovation-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,18 +86,18 @@ extensive research and
 <p>Environmental Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Technology development for waste and water management
-<br>&nbsp;- Conversion of waste to energy and value-added resource
-<br>&nbsp;- Conservation and biodiversity studies
-<br>&nbsp;- Marine science and aquaculture
-<br>&nbsp;- Composting and mycology
+<p>- Technology development for waste and water management
+<br>- Conversion of waste to energy and value-added resource
+<br>- Conservation and biodiversity studies
+<br>- Marine science and aquaculture
+<br>- Composting and mycology
 <br>https://www.rp.edu.sg/sas/industry/environmental-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science (SAS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name:Goh Chee Keong
+<p>Name: Goh Chee Keong
 <br>Office: +6566971186
 <br>Email: goh_chee_keong@rp.edu.sg</p>
 </td>
@@ -113,13 +111,15 @@ extensive research and
 <p>Formulation &amp; Nutrition Science Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Pharmaceutical and Functional Food Formulations through
-<br>&nbsp;&nbsp; Sustainable Processing Technologies
-<br>&nbsp;- Utilisation of Alternative Proteins for Human &amp; Feed Development
+<p>- Pharmaceutical and Functional Food Formulations through
+<br>Sustainable Processing Technologies
+<br>- Utilisation of Alternative Proteins for Human &amp; Feed Development
 <br>&nbsp;- Molecular Diagnostics, Bioprinting and Bioassays
-<br>&nbsp;- Health Technology
-<br>&nbsp;- Combating Diabetes
-<br>https://www.rp.edu.sg/sas/industry/formulation-nutrition-science-technology-centre</p>
+<br>- Health Technology
+<br>- Combating Diabetes
+<br>
+</p>
+<p><a href="https://www.rp.edu.sg/sas/industry/formulation-" rel="noopener noreferrer nofollow" target="_blank">https://www.rp.edu.sg/sas/industry/formulation-</a>nutrition-science-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science (SAS)</p>
@@ -139,9 +139,9 @@ extensive research and
 <p>Sustainable Aquaculture Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Genetics and fish breeding
-<br>&nbsp;- Disease and health management
-<br>&nbsp;- Feeds and fish nutrient quality
+<p>- Genetics and fish breeding
+<br>- Disease and health management
+<br>- Feeds and fish nutrient quality
 <br>https://www.rp.edu.sg/sas/industry/sustainable-aquaculture-technology-centre-(satc)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,9 +162,9 @@ extensive research and
 <p>Aviation and Aerospace Solutions Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Aviation Productivity and Innovation
-<br>&nbsp;- Smart MRO Operations
-<br>&nbsp;- UAV systems applications
+<p>Aviation Productivity and Innovation
+<br>- Smart MRO Operations
+<br>- UAV systems applications
 <br>https://www.rp.edu.sg/seg/beyond-classroom/industry/aviation-and-aerospace-solutions-centre
 <br>
 </p>
@@ -187,9 +187,9 @@ extensive research and
 <p>Smart Engineering Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Industry 4.0
-<br>&nbsp;- Sustainability
-<br>&nbsp;- Healthcare (with RIE 2020)
+<p>- Industry 4.0
+<br>- Sustainability
+<br>- Healthcare (with RIE 2020)
 <br>- 5G
 <br>- Robotics &amp; Automation
 <br>- Unmanned Systems
@@ -214,12 +214,11 @@ extensive research and
 <p>Supply Chain Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- support RP’s Supply Chain Management Cluster, together with the
-Centre of
-<br>&nbsp;&nbsp; Innovation – Supply Chain Management (COI-SCM)
+<p>- support RP’s Supply Chain Management Cluster, together with the Centre
+of
+<br>Innovation – Supply Chain Management (COI-SCM)
 <br>- develop capabilities that allow companies to embark on their digital
-supply chain
-<br>&nbsp;&nbsp; transformation journey by tapping on Industry 4.0 technologies
+supply chain transformation journey by tapping on Industry 4.0 technologies
 <br>https://www.rp.edu.sg/seg/beyond-classroom/industry/supply-chain-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,13 +239,13 @@ supply chain
 <p>Hospitality Solutions Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- New industry insights
-<br>&nbsp;- Hospitality technology solutioning and innovation
-<br>&nbsp;- Prototyping of hospitality solutions
-<br>&nbsp;- Operational process planning and improvement management
-<br>&nbsp;- Customer Experience Design and Analytics
+<p>- New industry insights
+<br>- Hospitality technology solutioning and innovation
+<br>- Prototyping of hospitality solutions
+<br>- Operational process planning and improvement management
+<br>- Customer Experience Design and Analytics
 <br>&nbsp;- Food &amp; Beverage Innovation
-<br>&nbsp;- Event &amp; MICE planning and management
+<br>- Event &amp; MICE planning and management
 <br>https://www.rp.edu.sg/soh/industry/conexus-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,13 +266,11 @@ supply chain
 <p>Artificial Intelligence Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Focuses on growing capabilities, expertise and knowledge in utilising
+<p>- Focuses on growing capabilities, expertise and knowledge in utilising
 AI
-<br>&nbsp;&nbsp; technologies to create innovative industry driven solutions
-<br>&nbsp;- Computer vision, natural language understanding, and data management
-and&nbsp;
-<br>&nbsp;&nbsp; analytics are the three key development pillars for this
-centre
+<br>technologies to create innovative industry driven solutions
+<br>- Computer vision, natural language understanding, and data management
+and&nbsp;analytics are the three key development pillars for this centre
 <br>https://www.rp.edu.sg/soi/industry/artificial-intelligence-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,18 +291,18 @@ centre
 <p>Internet of Things Solutions Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Allows local enterprises to tap on the creativity and expertise
-of RP staff and
-<br>&nbsp; students to create innovative interoperable solutions and services
-to support their
-<br>&nbsp; own organisational needs and initiatives
+<p>- Allows local enterprises to tap on the creativity and expertise of RP
+staff and
+<br>students to create innovative interoperable solutions and services to
+support their
+<br>own organisational needs and initiatives
 <br>https://www.rp.edu.sg/soi/industry/iot-solutions-centre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Infocomm (SOI)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name: Tan&nbsp; Wee Siong
+<p>Name: Tan&nbsp;Wee Siong
 <br>Office: +6566971150
 <br>Email: tan_wee_siong@rp.edu.sg</p>
 </td>
@@ -319,11 +316,11 @@ to support their
 <p>Consumer Insights and Social Enterprise Research (CISER) Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Consumer behaviour, product testing, market research&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;-&nbsp; Qualitative Research&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Quantitative Research
-<br>&nbsp;- Consumer behaviour, market trend and data analytics visualisation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Business Process Re-design
+<p>- Consumer behaviour, product testing, market research&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Qualitative
+Research&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Quantitative Research
+<br>- Consumer behaviour, market trend and data analytics visualisation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Business Process Re-design
 <br>https://www.rp.edu.sg/smc/industry/ciser-conexus-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,14 +341,14 @@ to support their
 <p>Digital Business and Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Marketing and branding campaigns leveraging on immersive technology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;- E-commerce solutions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;- Online to offline digital media campaigns strategies
-<br>&nbsp;- Leveraging on generative artificial intelligence for consumer
-interaction , digital
-<br>&nbsp;&nbsp; marketing and communication&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;- Go to Market Strategies Product Positioning &amp; Branding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-- Strategic Business Strategies
+<p>- Marketing and branding campaigns leveraging on immersive technology</p>
+<p>- E-commerce solutions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Online to offline digital media campaigns strategies
+<br>- Leveraging on generative artificial intelligence for consumer interaction,
+digital
+<br>marketing and communication&nbsp;- Go to Market Strategies Product Positioning
+&amp; Branding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-
+Strategic Business Strategies
 <br>https://www.rp.edu.sg/smc/industry/digital-business-and-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -372,13 +369,12 @@ interaction , digital
 <p>Ergonomics and Ergogenic Technology Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Consultancy services on human movement and research for industry
-applications
-<br>&nbsp;- Assessing test protocols for ecological validity
-<br>&nbsp;- Applying sports and exercise sciences to assess human performance
-<br>&nbsp;- Development of evidence-based exercise programmes and the innovation
+<p>- Consultancy services on human movement and research for industry applications
+<br>- Assessing test protocols for ecological validity
+<br>- Applying sports and exercise sciences to assess human performance
+<br>- Development of evidence-based exercise programmes and the innovation
 of sports
-<br>&nbsp;&nbsp; technology for performance enhancement
+<br>technology for performance enhancement
 <br>https://www.rp.edu.sg/shl/industry/our-research-and-technology-centres/ergonomics-and-ergogenics-technology-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -399,12 +395,12 @@ of sports
 <p>Experiential Learning Research Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Experiential, outdoor and adventure education pedagogy
-<br>&nbsp;- Environmental education and interpretation
-<br>&nbsp;- Expedition planning, risk assessment and crisis management
-<br>&nbsp;- Qualitative research and narrative inquiry
-<br>&nbsp;- Life skills development
-<br>&nbsp;- Team-based professional development courses
+<p>- Experiential, outdoor and adventure education pedagogy
+<br>- Environmental education and interpretation
+<br>- Expedition planning, risk assessment and crisis management
+<br>- Qualitative research and narrative inquiry
+<br>- Life skills development
+<br>- Team-based professional development courses
 <br>https://www.rp.edu.sg/shl/industry/our-research-and-technology-centres/experiential-learning-research-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,10 +421,10 @@ of sports
 <p>Wellness Research Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Developing innovative health products and programmes
-<br>&nbsp;- Mental health research
+<p>- Developing innovative health products and programmes
+<br>- Mental health research
 <br>&nbsp;- Geriatric wellness research
-<br>&nbsp;- Physiotherapy and rehabilitative studies
+<br>- Physiotherapy and rehabilitative studies
 <br>https://www.rp.edu.sg/shl/industry/our-research-and-technology-centres/wellness-research-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,8 +445,8 @@ of sports
 <p>Creative Service Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Content development
-<br>&nbsp;- Entertainment and MICE
+<p>- Content development
+<br>- Entertainment and MICE
 <br>https://www.rp.edu.sg/sta/industry/creative-service-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -471,9 +467,9 @@ of sports
 <p>Experience Design and Gamification Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- Immersive Media and Content Creation
-<br>&nbsp;- User Experience
-<br>&nbsp;- Gamification
+<p>- Immersive Media and Content Creation
+<br>- User Experience
+<br>- Gamification
 <br>https://www.rp.edu.sg/sta/industry/experience-design-gamification-centre</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -494,11 +490,10 @@ of sports
 <p>Centre of Innovation - Supply Chain Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;- helps Singapore-based companies to develop and strengthen their
-supply chain
-<br>&nbsp;&nbsp; and logistics capabilities through Process Innovation, Technology
+<p>- helps Singapore-based companies to develop and strengthen their supply
+chain and logistics capabilities through Process Innovation, Technology
 Enablement,
-<br>&nbsp;&nbsp; and Training
+<br>and Training
 <br>https://www.rp.edu.sg/coi-scm</p>
 </td>
 <td rowspan="1" colspan="1">
