@@ -27,7 +27,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>IT200LV SEM (JEOL)</p>
+<p>&nbsp;IT200LV SEM (JEOL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SEM with EDX&nbsp;</p>
@@ -196,7 +196,7 @@ die shear</p>
 <p>PC-242HS-A/V (HIRAYAMA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pressure cooker test chamber, 121 degC, 100%RH,&nbsp; 2atm,</p>
+<p>Pressure cooker test chamber, 121 degC, 100%RH,&nbsp;2atm,</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PCT, reliability</p>
