@@ -4,7 +4,9 @@ permalink: /ite-expertise/
 variant: tiptap
 description: ""
 ---
-<p>For general enquiries, contact <a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
+<p>For General enquiries, contact:</p>
+<p>Technology Development Centre (TDC)</p>
+<p><a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -15,13 +17,13 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Equipment</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Keywords</p>
 </th>
 </tr>
 <tr>
