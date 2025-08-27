@@ -17,7 +17,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Equipment</p>
+<p>Facility</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Description</p>
