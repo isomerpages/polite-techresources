@@ -16,6 +16,17 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Equipment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Keywords</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Materials Lab</p>
 </td>
