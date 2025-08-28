@@ -5,100 +5,500 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:YIP_Teck_Hong@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Thermal - dynamics - School of Engineering(SOE)</div><div class="isomer-card-description">Reversed heat pump</div><div class="isomer-card-link">Contact: Yip Teck Hong</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:Alex_SEE@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">LabView - School of Engineering(SOE)</div>
-<div class="isomer-card-description">LabVIEW application</div>
-<div class="isomer-card-link">Contact: Alex See</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:ZHU_Taixiu@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Distributed generation - School of Engineering(SOE)</div><div class="isomer-card-description">Microgrid and smart grid technologies</div><div class="isomer-card-link">Contact: Zhu Taixiu</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:ZHU_Taixiu@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">BESS - School of Engineering(SOE)</div>
-<div class="isomer-card-description">Battery energy storage system for EV fast charging station</div>
-<div class="isomer-card-link">Contact: Zhu Taixiu</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:lml2@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Advanced Manufacturing and Automation Cluster - School of Engineering(SOE)</div><div class="isomer-card-description">Our expertise lies in providing development and turn-key solutions in system integration and industrial automation for SMEs. The industries that we had collaborated are food, sustainable gas, medical, general automation, cleaning processes, etc.</div><div class="isomer-card-link">Contact: Lim Meng Lieh, Nelson</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:chua_kuang_chua@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Health &amp; Medical Technolgy - School of Engineering(SOE)</div>
-<div class="isomer-card-description">Our expertise lies in design and development of device &amp; instrumentation
-and algorithm for biomedical application. We also develop diagnostic application
-leveraging on AI algorithm</div>
-<div class="isomer-card-link">Contact: Chua Kuang Chua</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Artificial Intelligence - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Video analytics for inspection, survellience, and monitoring AI for robot learning</div><div class="isomer-card-link">Contact: Li Yan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Teleoperation - Robotics Research &amp; Innovation Centre(RRIC)</div>
-<div class="isomer-card-description">Robot teleoperation using 5G</div>
-<div class="isomer-card-link">Contact: Li Yan</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:Li_Yan@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">XR applications - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Immersive and interactive experience for training &amp; maintenance using XR technology</div><div class="isomer-card-link">Contact: Li Yan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:hui_tin_fat@np.edu.sg; lei_hong@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Human-Robot Interaction - Robotics Research &amp; Innovation Centre(RRIC)</div>
-<div class="isomer-card-description">Mobile Apps for Autonomous Service Monitoring</div>
-<div class="isomer-card-link">Contact: Hui Tin Fat and/or Lei Hong</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:hui_tin_fat@np.edu.sg; lei_hong@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Human-Robot Interaction - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Mobile Apps for Autonomous Service Monitoring</div><div class="isomer-card-link">Contact: Hui Tin Fat and/or Lei Hong</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:hui_tin_fat@np.edu.sg; tiaw_joo_kwee@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Embedded Systems - Robotics Research &amp; Innovation Centre(RRIC)</div>
-<div class="isomer-card-description">Sensors, actuactors, and IPC/microcontroller integration</div>
-<div class="isomer-card-link">Contact: Hui Tin Fat and/or Tiaw Joo Kwee</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:george_pan@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Robot Design and Fabrication - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">Mechanical and Structual Engineering for Construction and Logistics Environments</div><div class="isomer-card-link">Contact: George Pan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:hui_tin_fat@np.edu.sg; tiaw_joo_kwee@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Vision - Robotics Research &amp; Innovation Centre(RRIC)</div>
-<div class="isomer-card-description">Computer Vision, Vision Deep Learning</div>
-<div class="isomer-card-link">Contact: Hui Tin Fat and/or Tiaw Joo Kwee</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:Goh_Yun_Long@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Service Robot - Robotics Research &amp; Innovation Centre(RRIC)</div><div class="isomer-card-description">The service robotics cluster specializes in designing and fabricating robots for service applications, leveraging the Robot Operating System (ROS) for end-to-end development.</div><div class="isomer-card-link">Contact: Goh Yun Long</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:zhou_xingding@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Fermentation and process optimisation - School of Life Sciences and Chemical
-Technology (LSCT)</div>
-<div class="isomer-card-description">Our expertise lies in developing and refining microbial cultivation techniques
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Epertise</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dept</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Keywords</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thermal dynamics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reversed heat pump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yip Teck Hong
+<br>9851 3196
+<br>YIP_Teck_Hong@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thermal dynamics, thermal fluid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LabView&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LabVIEW application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alex See
+<br>8182 9189
+<br>Alex_SEE@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data acquisition, Modbus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distributed generation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microgrid and smart grid technologies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhu Taixiu
+<br>9859 2367
+<br>ZHU_Taixiu@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Microgrid, smart grid, renewable energy integration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BESS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Battery energy storage system for EV fast charging station</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhu Taixiu
+<br>9859 2367
+<br>ZHU_Taixiu@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Battery energy storage, EV fast charging</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Advanced Manufacturing and Automation Cluster</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in providing development and&nbsp; turn-key solutions
+in system integration and industrial automation for SMEs. The industries
+that we had collaborated are food, sustainable gas, medical, general automation,
+cleaning processes, etc. Most projects centred on problems statement on
+product processes that are industrial by nature.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Meng Lieh, Nelson
+<br>91375351
+<br>lml2@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Automation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Health &amp; Medical Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in design and development of device &amp; instrumentation
+and algorithm&nbsp; for&nbsp; biomedical application. We also develop diagnostic
+application leveraging on AI algorithm&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Engineering(SOE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Kuang Chua
+<br>93218250
+<br>chua_kuang)chua@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biomedical Engineering, Rehabilitation, Medical Instrumentation, AI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Artificial Intelligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Video analytics for inspection, surveillance, and monitoring&nbsp;
+<br>AI for robot learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI YAN
+<br>64606319
+<br>Li_Yan@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI; Video Analytics; Imitation Learning&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teleoperation&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robot teleoperation using 5G&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI YAN
+<br>64606319
+<br>Li_Yan@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teleoperation; 5G; Robot Control</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XR applications&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Immersive and interactive experience for training &amp; maintenance using
+XR technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI YAN
+<br>64606319
+<br>Li_Yan@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Virtual Reality; Augmented Reality; Mixed Reality</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Human-Robot Interaction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile Apps for Autonomous Service Monitoring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUI Tin Fat
+<br>64606190
+<br>hui_tin_fat@np.edu.sg
+<br>Lei_HONG
+<br>64607506
+<br>lei_hong@np.edu.sg
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mobile Apps for AVs, Flutter, Darts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Embedded Systems</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sensors, actuators, and IPC/microcontroller integration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUI Tin Fat
+<br>64606190
+<br>hui_tin_fat@np.edu.sg
+<br>Tiaw Joo KWEE
+<br>64606505
+<br>tiaw_joo_kwee@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sensors, Motor Drivers, System integration, AVs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Robot Design and Fabrication</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mechanical and Structural Engineering for Construction and Logistics Environments</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>George PAN
+<br>64607532
+<br>george_pan@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotic Unlocking System, Follower Robot, AMR telemonitoring&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vision</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Computer Vision, Vision Deep Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiaw Joo KWEE
+<br>64606505
+<br>tiaw_joo_kwee@np.edu.sg
+<br>HUI Tin Fat
+<br>64606190
+<br>hui_tin_fat@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OpenCV, Deep Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Service Robot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The service robotics cluster specializes in designing and fabricating
+robots for service applications, leveraging the Robot Operating System
+(ROS) for end-to-end development. It integrates hardware and software,
+ensuring seamless navigation, perception, and interaction capabilities.
+The cluster handles concept creation, prototyping, testing, and deployment,
+delivering robust, efficient robotic solutions.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Robotics Research &amp; Innovation Centre(RRIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yun Long
+<br>64608153
+<br>Goh_Yun_Long@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>design, fabrication, robots, service applications, Robot Operating System
+(ROS), end-to-end development, hardware integration, software integration,
+navigation, perception, interaction, prototyping, testing, deployment,
+robotic solutions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>fermentation and process optimisation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in developing and refining microbial cultivation techniques
 to enhance product yield, quality, and efficiency in biotechnology and
-pharmaceutical industries.</div>
-<div class="isomer-card-link">Contact: Zhou Xingding</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:su_jincai@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Membrane formulation, fabrication and testing - School of Life Sciences and Chemical Technology (LSCT)</div><div class="isomer-card-description">Our expertise lies in membrane formulation, fabrication and testing expertise encompasses designing, creating, and evaluating advanced filtration materials for diverse applications, optimising performance in separation processes across various applications</div><div class="isomer-card-link">Contact: Su Jincai</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:TEOH_Kim_Tat@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">IVD (rapid test kit, microarray, NGS) - School of Life Sciences and Chemical
-Technology (LSCT)</div>
-<div class="isomer-card-description">Our expertise lies in developing rapid test kits and platforms, as well
+pharmaceutical industries.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhou Xingding
+<br>64608297
+<br>zhou_xingding@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>fermentation, process optimisation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>membrane formulation, fabrication and testing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in membrane formulation, fabrication and testing expertise
+encompasses designing, creating, and evaluating advanced filtration materials
+for diverse applications, optimising performance in separation processes
+across various applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Su Jincai
+<br>64608978
+<br>su_jincai@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>membrane, formulation, fabrication</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IVD (rapid test kit, microarray, NGS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in developing rapid test kits and platforms, as well
 as applying microarray and next-generation sequencing technologies to detect
-and screen for diseases.</div>
-<div class="isomer-card-link">Contact: Teoh Kim Tat</div>
-</div>
-</a>
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Mailto:lau_quek_choon@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lau Quek Choon - Environmental microbial survey - School of Life Sciences and Chemical Technology (LSCT)</div><div class="isomer-card-description">Our expertise lies in identifying and analysing microbial found in communities in various ecosystems and assessing biodiversity.During the COVID-19 pandemic, we participated in a community project aimed at screening public surfaces for SARS-CoV-2.</div><div class="isomer-card-link">Contact: Lau Quek Choon</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:TEOH_Kim_Tat@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Teoh Kim Tat - Environmental and pollution surveillance - School of Life
-Sciences and Chemical Technology (LSCT)</div>
-<div class="isomer-card-description">Our expertise lies in monitoring, analysing, and interpreting data on
+and screen for diseases.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teoh Kim Tat
+<br>64606318
+<br>TEOH_Kim_Tat@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>rapid test kit, microarray, next-gen sequencing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>environmental microbial survey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in identifying and analysing microbial found in communities
+in various ecosystems and assessing biodiversity. During the COVID-19 pandemic,
+we participated in a community project aimed at screening public surfaces
+for SARS-CoV-2 and evaluating the efficacy of disinfectant surface coatings.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lau Quek Choon
+<br>64608618
+<br>lau_quek_choon@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>microbial, environment surveillance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Environmental and pollution surveillance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in monitoring, analysing, and interpreting data on
 air, water, and soil contaminants to assess environmental health and guide
-pollution control strategies.</div>
-<div class="isomer-card-link">Contact: Teoh Kim Tat</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:LIONG_Yin_Chun@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Mr Liong Yin Chun - Energy Management - Centre for Environmental Sustainability(CfES)</div><div class="isomer-card-description">Our expertise focuses on optimizing energy efficiency in built environments through advanced HVAC and air-conditioning solutions, energy-efficient data center cooling, and intelligent remote monitoring and control systems to reduce energy consumption and operational costs.</div><div class="isomer-card-link">Contact: Mr Liong Yin Chun</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Mailto:Suresh_Kumar_PALANISWAMY@np.edu.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr Palaniswamy Suresh Kumar - Waste Management - Centre for Environmental
-Sustainability(CfES)</div>
-<div class="isomer-card-description">We specialize in waste valorization and resource recovery, transforming
+pollution control strategies.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teoh Kim Tat
+<br>64606318
+<br>TEOH_Kim_Tat@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>environmental quality, surveillance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Energy Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise focuses on optimizing energy efficiency in built environments
+through advanced HVAC and air-conditioning solutions, energy-efficient
+data centre cooling, and intelligent remote monitoring and control systems
+to reduce energy consumption and operational costs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre for Environmental Sustainability(CfES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Liong Yin Chun
+<br>64607743
+<br>LIONG_Yin_Chun@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>energy efficiency, HVAC, air-conditioning, data centre cooling, monitoring
+and control</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Waste Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>We specialize in waste valorisation and resource recovery, transforming
 waste materials into valuable resources. Our expertise extends to sustainable
 materials development and indoor air quality improvement, contributing
-to healthier and more sustainable living and working environments.</div>
-<div class="isomer-card-link">Contact: Dr Palaniswamy Suresh Kumar</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="Mailto:GOH_Shuwen@np.edu.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Dr Goh Shuwen - Water Management - Centre for Environmental Sustainability(CfES)</div><div class="isomer-card-description">Our expertise lies in developing innovative water recycling and reuse strategies, extracting valuable resources from liquid waste, and advancing drinking water treatment technologies. Additionally, we focus on functional membrane development to enhance water purification and treatment efficiency.</div><div class="isomer-card-link">Contact: Dr Goh Shuwen</div></div></a>
-</div>
+to healthier and more sustainable living and working environments.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre for Environmental Sustainability(CfES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Palaniswamy Suresh Kumar
+<br>64607725
+<br>Suresh_Kumar_PALANISWAMY@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>waste valorisation, resource recovery, sustainable materials, air quality</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Water Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our expertise lies in developing innovative water recycling and reuse
+strategies, extracting valuable resources from liquid waste, and advancing
+drinking water treatment technologies. Additionally, we focus on functional
+membrane development to enhance water purification and treatment efficiency.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Centre for Environmental Sustainability(CfES)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Goh Shuwen
+<br>64607055
+<br>GOH_Shuwen@np.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wastewater treatment, water recycling, water reuse, resource recovery,
+drinking water, membrane</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
