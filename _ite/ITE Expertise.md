@@ -31,10 +31,9 @@ description: ""
 <p>Materials Lab</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Melting/Casting of materials, Materials formulation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Sample preparation, metallurgy and microstructural investigation, Mechanical
-and thermal properties, failure analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Processing-structure-property relationship</p>
+<p>Melting/Casting of materials, Materials formulation Sample preparation,
+metallurgy and microstructural investigation, Mechanical and thermal properties,
+failure analysis, Processing-structure-property relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>metallurgy,&nbsp;polymer formulation, metal processing</p>
@@ -46,9 +45,8 @@ Processing-structure-property relationship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Product development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;Product performance evaluation
-<br>Electronic assembly and packaging
-<br>Supporting customized reliability test requirement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<br>Product performance evaluation. Electronic assembly and packaging.
+<br>Supporting customized reliability test requirement.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reliability testing, Failure analysis, Finite Element Analysis</p>
@@ -59,8 +57,8 @@ Processing-structure-property relationship</p>
 <p>Utility and Environment Monitoring and Control</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and construction site utility and climate monitoring and control
-<br>Environmental sanitation and health status monitoring and control</p>
+<p>Building and construction site utility and climate monitoring and control.
+<br>Environmental sanitation and health status monitoring and control.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Internet of Things,&nbsp;Solutions for sustainability</p>
@@ -71,8 +69,8 @@ Processing-structure-property relationship</p>
 <p>Outdoor Robotics Solution&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Study of robotics solutions for unstructured/outdoor applications
-<br>AMR solutions</p>
+<p>Study of robotics solutions for unstructured/outdoor applications. AMR
+solutions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>customised robotics for unstructured environment</p>
