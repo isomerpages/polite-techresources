@@ -6,9 +6,8 @@ description: ""
 ---
 <p>Contact: Teow Yiwei, 6780 4263, Email: <a href="mailto:teow_yiwei@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_yiwei@tp.edu.sg</a>
 </p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -24,9 +23,6 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p>Dept</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Contact</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Keywords</p>
@@ -46,11 +42,6 @@ environmental friendly battery recycling systems.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>air-cooled fuel cell, hydrogen fuel cell, PEM fuel cells, battery management
@@ -73,11 +64,6 @@ technologies to turn fruit waste into useful products.</p>
 <p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>urban waste, fruit waste, fermentation</p>
 </td>
 </tr>
@@ -97,11 +83,6 @@ investigate microbiome of soil for better plant health and nutrition.</p>
 <p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>seed priming, vertical farming, germination recopies, LED lighting, microbiome</p>
 </td>
 </tr>
@@ -119,11 +100,6 @@ kits, disease treatment and prevention strategies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>aquaculture, fish meal replacement, hatchery, vaccine, pathogen, Recirculating
@@ -146,11 +122,6 @@ products.&nbsp;</p>
 <p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>applied nutrition, glycaemic index, food recipes</p>
 </td>
 </tr>
@@ -167,11 +138,6 @@ health products.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>complementary health products, TCM, lab testing</p>
@@ -192,11 +158,6 @@ wearable sensors for health analysis and various applications</p>
 <p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>medical devices, microfluidics, wearable devices, smart bed</p>
 </td>
 </tr>
@@ -213,11 +174,6 @@ management industries.&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Autonomous Intelligent Vehicles (AIVs), Robotic Arms, Embedded Intelligent
@@ -238,11 +194,6 @@ times and power systems (batteries, tethered, fuel cells).</p>
 <p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Unmanned Aerial Systems, unmanned aerial vehicles, drones</p>
 </td>
 </tr>
@@ -258,11 +209,6 @@ x 30 x 8m)
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unmanned Aerial Systems, unmanned aerial vehicles, drones</p>
@@ -284,11 +230,6 @@ their operations.&nbsp;</p>
 <p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>advanced manufacturing, smart factory, industry 4.0</p>
 </td>
 </tr>
@@ -307,11 +248,6 @@ to post-processing.&nbsp;</p>
 <p>School of Engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>3D printing, NAMIC, additive manufacturing</p>
 </td>
 </tr>
@@ -327,11 +263,6 @@ and solutions incorporating data analytics, IOT and artificial intelligence.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI/ML, internet of things (IOT), immersive media</p>
@@ -354,11 +285,6 @@ approach to provide innovative solutions for the related industries.</p>
 <p>School of Applied Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>functional feeds development, nutrition analysis, dietary management for
 gut microbiome health and diseases, animal health and wellness, water and
 waste management</p>
@@ -378,11 +304,6 @@ sector by providing training in the latest technologies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Staff: Teow Yiwei
-<br>Office: 6780 4263
-<br>Email: teow_yiwei@tp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>facility management systems</p>
