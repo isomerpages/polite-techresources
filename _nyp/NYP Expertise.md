@@ -33,7 +33,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Applied AI&nbsp;</p>
+<p>Applied AI&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• AI &amp; Data Engineering
@@ -43,7 +43,7 @@ description: ""
 <br>• Data Science and Business Intelligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering , Centre for Applied AI (C4AI)</p>
+<p>School of Engineering, Centre for Applied AI (C4AI)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Sophia Wei
@@ -51,12 +51,12 @@ description: ""
 <br>sophia_wei@nyp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI, computer vision, NLP, AIoT,Business intelligence</p>
+<p>AI, computer vision, NLP, AIoT, Business intelligence</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Diagnostic &amp; Vaccines Development for Aquaculture</p>
+<p>Diagnostic &amp; Vaccines Development for Aquaculture</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Farm visits to diagnose disease outbreaks
@@ -82,7 +82,7 @@ and dip vaccines
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Software Development</p>
+<p>Software Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Agile software development in area:
@@ -166,7 +166,7 @@ Manufacturing Technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Customer insight, Service experience and&nbsp; Omni-channel Management</p>
+<p>Customer insight, Service experience and&nbsp;Omni-channel Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;•Customer/ Business Analytics &amp; Insights
@@ -222,7 +222,7 @@ intelligence,</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>•Food Safety Centre: HACCP/ISO22000 consultancy, microbiological testing,
-label review, R&amp;D, shelf life validation, training.
+label review, R&amp;D, shelf-life validation, training.
 <br>
 <br>•NYP Beverage Plant: Beverage development, pilot production, viability
 testing.
@@ -251,7 +251,7 @@ Centre)
 </td>
 <td rowspan="1" colspan="1">
 <p>Food Safety management, microbial testing on food and environment, label
-review, R&amp;D, shelf life testing and validation, beverage development,
+review, R&amp;D, shelf-life testing and validation, beverage development,
 viable testing, quality assurance, cold chain management, package ready-to-eat
 products</p>
 </td>
@@ -283,8 +283,8 @@ products</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wearables, healthcare solutions, rehabilitation &amp; assistive devices,
-biosensors, monitoring, process integration, health analytics, Telehealth&amp;IOMT,
-apps development</p>
+biosensors, monitoring, process integration, health analytics, Telehealth
+&amp; IOMT, apps development</p>
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ apps development</p>
 <p>Infocomm &amp; Cybersecurity Technologies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Cyber-physical security in industrial control systems&nbsp; and operational
+<p>• Cyber-physical security in industrial control systems&nbsp;and operational
 technology
 <br>•Cybersecurity &amp; Digital Forensics
 <br>• IoT networks &amp; security
@@ -337,8 +337,8 @@ technology
 <br>tan_nam_beng@nyp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cyber-physical security, cybersecurity&amp; digital forensics, IoTnetwork
-and security,Cyber wellness, AI/RPA,data analytics, agile software</p>
+<p>Cyber-physical security, cybersecurity&amp; digital forensics, IoT network
+and security, Cyber wellness, AI/RPA, data analytics, agile software</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ for BIM.
 and digital media management.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering , Software &amp; Immersive Media Group (SIMG)
+<p>School of Engineering, Software &amp; Immersive Media Group (SIMG)
 <br>
 <br>School of Business Management</p>
 </td>
@@ -370,8 +370,8 @@ and digital media management.</p>
 <br>laura_chua@nyp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Transformation, Customized software,RPA, no-code software development,
-AR/VR/MR for BIM, Digital content , creative services, digital media management</p>
+<p>Digital Transformation, Customized software, RPA, no-code software development,
+AR/VR/MR for BIM, Digital content, creative services, digital media management</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@ molding design, CAM NC postprocessor, Human Factors engineering</p>
 <br>•Control Software development
 <br>•Human Robot interactions
 <br>•Intelligent industrial robots &amp; systems
-<br>•Perception , Inspection and Interaction
+<br>•Perception, Inspection and Interaction
 <br>•Navigation &amp; control
 <br>
 <br>
@@ -431,9 +431,9 @@ molding design, CAM NC postprocessor, Human Factors engineering</p>
 <br>oh_tiong_keng@nyp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Robotics vision, Robotics &amp; automation , embedded AI, Human robot
-interactions, intelligent industrial robots,perception&amp;inspection&amp;
-interaction, navigation&amp; control</p>
+<p>Robotics vision, Robotics &amp; automation, embedded AI, Human robot interactions,
+intelligent industrial robots, perception &amp; inspection&amp; interaction,
+navigation &amp; control</p>
 </td>
 </tr>
 <tr>
