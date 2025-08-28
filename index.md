@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/62005__Converted_.jpg
+      background: /images/62.png
       variant: center
       title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
@@ -24,17 +24,17 @@ sections:
           - title: Expertise
             url: /expertise/
   - infocols:
-      title: Enhance Your Search Results with 3 Simple Steps
+      title: Enhance Your Search Results in 3 Simple Steps
       id: infocols
       linktext: Learn more
       infoboxes:
         - title: Step 1
-          description: To begin search, click on the magnifying glass or menu icon at the
-            top right corner.
+          description: To begin your search, click the magnifying glass or menu icon at
+            the top right corner.
         - title: Step 2
-          description: Key in specific keywords. Use compulsory words in quotation marks "
-            " to enhance your search.
+          description: Enter specific keywords. Use quotation marks (" ") around required
+            words to refine your search.
         - title: Step 3
-          description: Browse and select the Tech Resource you are interested in for more
+          description: Browse and select the Tech Resource you’re interested in for more
             details.
 ---

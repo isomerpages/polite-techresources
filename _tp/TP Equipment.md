@@ -62,7 +62,7 @@ technique used to separate non-volatile mixtures.</p>
 <p>Shimadzu QP-2010 Plus Gas Chromatograph - Mass Spectrometer&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Separating and analyzing volatile molecules</p>
+<p>Separating and analysing volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science</p>
@@ -76,7 +76,7 @@ technique used to separate non-volatile mixtures.</p>
 <p>Gas Chromatography with Flame Ionization Detector and Auto-Injector</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Separating and analyzing volatile molecules</p>
+<p>Separating and analysing volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science</p>
@@ -90,7 +90,7 @@ technique used to separate non-volatile mixtures.</p>
 <p>High Performance Liquid Chromatography (HPLC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Separating and analyzing non-volatile molecules</p>
+<p>Separating and analysing non-volatile molecules</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Applied Science</p>
@@ -152,7 +152,7 @@ liquid or gas</p>
 <p>METALLURGICAL INSPECTION MICROSCOPE is a high power microscope (5x – 100x)
 are used for metallurgical inspection including metals, ceramics and other
 labs materials. It can be used to examine delimitations, cracks and other
-anomalies nondestructively.</p>
+anomalies non-destructively.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Engineering</p>
@@ -450,7 +450,7 @@ beam which contain information about the sample's surface topography and
 composition.
 <br>
 <br>Application:
-<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Materail Science and technology
+<br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Material Science and technology
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Semiconductor industry,
 <br>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Biomaterial science and technology
 <br>
@@ -510,8 +510,8 @@ with the light of a specific wavelength.&nbsp;</p>
 <p>Ceramic Kiln</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To fire clay. Bisque Firing between 650- 950 degrees celcius and glaze
-firing from 1000 to 1250 degrees celcius</p>
+<p>To fire clay. Bisque Firing between 650- 950 degrees Celsius and glaze
+firing from 1000 to 1250 degrees Celsius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School of Design</p>
@@ -590,7 +590,7 @@ the machine to do intricate and fine cutting.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laser engraving is a technology that uses a laser to cut/engrave vector
-and rastor on materials like wood, plastics, paper. A drawing can be generated&nbsp;
+and raster on materials like wood, plastics, paper. A drawing can be generated&nbsp;
 and send to the machine to do intricate and fine cutting.</p>
 </td>
 <td rowspan="1" colspan="1">

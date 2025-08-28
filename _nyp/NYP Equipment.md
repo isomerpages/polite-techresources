@@ -47,7 +47,7 @@ for rapid prototyping, customisation, and production of complex geometries.</p>
 <br>&nbsp;desmond_tan@nyp.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3D printing, Metal printing, Polymer pringint , rapid prototyping</p>
+<p>3D printing, Metal printing, Polymer printing , rapid prototyping</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ or powder form</p>
 <p>Post Harvest equipment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>It has different equipments that can increase the reliability of the products
+<p>It has different equipment that can increase the reliability of the products
 in terms of freshness, quality assurance and safety of the primary produce
 from the local farms.</p>
 </td>
@@ -157,7 +157,7 @@ from the local farms.</p>
 <br>6550 1574</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>reliability,freshness, qualit assurance</p>
+<p>reliability, freshness, quality assurance</p>
 </td>
 </tr>
 </tbody>

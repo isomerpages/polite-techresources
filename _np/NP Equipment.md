@@ -48,7 +48,7 @@ systems.
 <br>https://www.tystar.com/en/index</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong, 64608439,
@@ -67,7 +67,7 @@ systems.
 <p>Main Specifications:
 <br>Wafer Size: Supports wafers and substrates up to 150 mm (6 inches) in
 diameter.
-<br>Alignment Accuracy:Top-Side Alignment: Achieves accuracy of ≤ ±0.5 µm.
+<br>Alignment Accuracy: Top-Side Alignment: Achieves accuracy of ≤ ±0.5 µm.
 <br>Exposure Modes: Capable of soft, hard, vacuum contact, and proximity exposure
 modes.
 <br>Applications:
@@ -76,7 +76,7 @@ devices.
 <br>https://www.evgroup.com/products/lithography/mask-alignment-systems/evg620-nt/?utm_source=chatgpt.com</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong, 64608439,
@@ -105,7 +105,7 @@ nitrides.
 <br>https://www.dentonvacuum.com/products/research/explorer/?utm_source=chatgpt.com</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong, 64608439,
@@ -127,7 +127,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <br>https://mpptools.com/products/ibond5000-wedge-wire-bonder/</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eve Lee
@@ -150,7 +150,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>5-axis CNC Machining</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Teng Wee
@@ -169,7 +169,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>CNC Mill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Teng Wee
@@ -188,7 +188,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>CNC Turn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Teng Wee
@@ -207,7 +207,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>SLM 280HL Selective Laser Machine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nelson Lim
@@ -226,7 +226,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>SLA: DWS Digitalwax 28J</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lee Cheok Peng/64606358
@@ -244,7 +244,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Scanning Electron Microscope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -263,7 +263,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Differential Scanning Calorimeter</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -282,7 +282,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Thermo-microbalance for thermogravimetric measurements</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -301,7 +301,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Innovas Nexus 3200 Brinell hardness tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -320,7 +320,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Innovas Falcon 500 Hardness Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -339,7 +339,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Innovas Nexus 610RS Hardness Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -358,7 +358,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>TecQuipment SM1006 Creep Testing Machine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -377,7 +377,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Buehler Beta Grinder Polisher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -396,7 +396,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Instron 3369/ Shimadzu AG-X Universal Tensile Tester</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -415,7 +415,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <p>Ceast 9050 pendulum impact testing machine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ong Meng Tiong
@@ -435,7 +435,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <br>https://www.fanucamerica.com/products/robots/series/r-2000/r-2000ic-210f</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nelson Lim
@@ -455,7 +455,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <br>https://www.fanucamerica.com/products/robots/series/m-710/m-710ic-50h</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nelson Lim
@@ -476,7 +476,7 @@ connections between microchip (wafer die) and its packaging or substrates
 <br>https://www.fanucamerica.com/products/robots/series/collaborative-robot/cr-35ib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nelson Lim
@@ -497,7 +497,7 @@ identify compounds in complex samples, used widely in environmental, forensic,
 and industrial analyses.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Life Sciences and Chemical Technology&nbsp;</p>
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teoh Kim Tat
@@ -518,7 +518,7 @@ in liquid samples under high pressure, widely used in pharmaceutical, environmen
 and biochemical research.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Life Sciences and Chemical Technology&nbsp;</p>
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teoh Kim Tat
@@ -544,7 +544,7 @@ reduce background noise.
 <br>Used for gene expression analysis.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Life Sciences and Chemical Technology&nbsp;</p>
+<p>School of Life Sciences and Chemical Technology (LSCT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teoh Kim Tat
@@ -563,7 +563,7 @@ reduce background noise.
 <p>Morphology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -582,7 +582,7 @@ reduce background noise.
 <p>Fouling potential analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -601,7 +601,7 @@ reduce background noise.
 <p>Pore size analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -614,13 +614,13 @@ reduce background noise.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gel Permeation Chromotograph (GPC)</p>
+<p>Gel Permeation Chromatograph (GPC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Molecular Weight Cut-off analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -639,7 +639,7 @@ reduce background noise.
 <p>Surface charge analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -658,7 +658,7 @@ reduce background noise.
 <p>Membrane permeability analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -677,7 +677,7 @@ reduce background noise.
 <p>Nano fibre spinning for scale up productions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -697,7 +697,7 @@ reduce background noise.
 with international standards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -717,7 +717,7 @@ with international standards</p>
 size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -736,7 +736,7 @@ size</p>
 <p>Ammonia Nitrogen analysis in water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -755,7 +755,7 @@ size</p>
 <p>Organic compound (volatile, semi-volatile) by direct (liquid injection)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -774,7 +774,7 @@ size</p>
 <p>Turbidity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -793,7 +793,7 @@ size</p>
 <p>Metals analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -812,7 +812,7 @@ size</p>
 <p>Anions analysis (F, Cl, Br, NO2, NO3, PO4, SO4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -831,7 +831,7 @@ size</p>
 <p>Silt Density Index</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -850,7 +850,7 @@ size</p>
 <p>TOC (TC-IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -869,7 +869,7 @@ size</p>
 <p>Multi-parameters analysis in water</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -888,7 +888,7 @@ size</p>
 <p>O&amp;G analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -907,7 +907,7 @@ size</p>
 <p>TOC, PO4, SO4, NO2, NO3, Chlorine (Free, Total), Ozone, Color, etc.,</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -926,7 +926,7 @@ size</p>
 <p>Sterilization in Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -945,7 +945,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -964,7 +964,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -983,7 +983,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1002,7 +1002,7 @@ size</p>
 <p>Incubation in Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1021,7 +1021,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1040,7 +1040,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1059,7 +1059,7 @@ size</p>
 <p>Amplifying segments of DNA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1078,7 +1078,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1097,7 +1097,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1116,7 +1116,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1135,7 +1135,7 @@ size</p>
 <p>Microbiology analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1154,7 +1154,7 @@ size</p>
 <p>Storage under -80oC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1173,7 +1173,7 @@ size</p>
 <p>Pilot-scale chemical/ polymer synthesis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1192,7 +1192,7 @@ size</p>
 <p>Surface coating application (Spraying)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1211,7 +1211,7 @@ size</p>
 <p>Surface coating application (Dipping)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1230,7 +1230,7 @@ size</p>
 <p>Industrial probe type homogenizer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1249,7 +1249,7 @@ size</p>
 <p>Materials application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1268,7 +1268,7 @@ size</p>
 <p>Granular application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1287,7 +1287,7 @@ size</p>
 <p>Materials application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1306,7 +1306,7 @@ size</p>
 <p>Preparation for metal analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1325,7 +1325,7 @@ size</p>
 <p>Concentration and separation by distillation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1344,7 +1344,7 @@ size</p>
 <p>Oil &amp; Grease measurement, Extraction&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1363,7 +1363,7 @@ size</p>
 <p>Heating up to 11000C with N2 purging system</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1382,7 +1382,7 @@ size</p>
 <p>Heating up to 11000C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1401,7 +1401,7 @@ size</p>
 <p>Heating up to 5500C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1420,7 +1420,7 @@ size</p>
 <p>High temperature treatment in different zone</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1439,7 +1439,7 @@ size</p>
 <p>Heating up to 1000C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1458,7 +1458,7 @@ size</p>
 <p>Heating up to 1000C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1477,7 +1477,7 @@ size</p>
 <p>Heating up to 3000C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1497,7 +1497,7 @@ size</p>
 kinetic rate constants&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1516,7 +1516,7 @@ kinetic rate constants&nbsp;</p>
 <p>Melt flow measurement for thermoplastic samples</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1535,7 +1535,7 @@ kinetic rate constants&nbsp;</p>
 <p>Moisture content measurement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1554,7 +1554,7 @@ kinetic rate constants&nbsp;</p>
 <p>Heat/calorific value</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1573,7 +1573,7 @@ kinetic rate constants&nbsp;</p>
 <p>Particle size distribution analysis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1592,7 +1592,7 @@ kinetic rate constants&nbsp;</p>
 <p>Experimental set up</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1611,7 +1611,7 @@ kinetic rate constants&nbsp;</p>
 <p>Porosity measurement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1630,7 +1630,7 @@ kinetic rate constants&nbsp;</p>
 <p>Material characterization analysis (nonpolar material)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1649,7 +1649,7 @@ kinetic rate constants&nbsp;</p>
 <p>Spectrophotometer analysis for solid samples</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1668,7 +1668,7 @@ kinetic rate constants&nbsp;</p>
 <p>Thermal properties of material (weight &amp; dimension)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1687,7 +1687,7 @@ kinetic rate constants&nbsp;</p>
 <p>Thin-Film Thickness measurement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1706,7 +1706,7 @@ kinetic rate constants&nbsp;</p>
 <p>Measure viscosity for polymer drop</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1725,7 +1725,7 @@ kinetic rate constants&nbsp;</p>
 <p>NIPS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1744,7 +1744,7 @@ kinetic rate constants&nbsp;</p>
 <p>Flat sheet casting system (small scale)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1763,7 +1763,7 @@ kinetic rate constants&nbsp;</p>
 <p>Membrane drying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1782,7 +1782,7 @@ kinetic rate constants&nbsp;</p>
 <p>For Morphology study</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1801,7 +1801,7 @@ kinetic rate constants&nbsp;</p>
 <p>For Morphology study&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1820,7 +1820,7 @@ kinetic rate constants&nbsp;</p>
 <p>Contact angle for flat sheet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1839,7 +1839,7 @@ kinetic rate constants&nbsp;</p>
 <p>Contact angle for hollow fibre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1858,7 +1858,7 @@ kinetic rate constants&nbsp;</p>
 <p>Analysis of Chemical functional groups &amp; identify compounds</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1877,7 +1877,7 @@ kinetic rate constants&nbsp;</p>
 <p>Measure tensile strength of materials&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1896,7 +1896,7 @@ kinetic rate constants&nbsp;</p>
 <p>Degassing of solution, dispersion of suspension. Heating up to 900C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1915,7 +1915,7 @@ kinetic rate constants&nbsp;</p>
 <p>Mechanical system for module potting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1934,7 +1934,7 @@ kinetic rate constants&nbsp;</p>
 <p>Mechanical system for module potting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1953,7 +1953,7 @@ kinetic rate constants&nbsp;</p>
 <p>Mechanical system for module cutting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1972,7 +1972,7 @@ kinetic rate constants&nbsp;</p>
 <p>Experimental set up for water and wastewater treatment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -1992,7 +1992,7 @@ the system in next few months)</p>
 <p>High-pressure filtration, such as NF and RO&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
@@ -2011,7 +2011,7 @@ the system in next few months)</p>
 <p>Machining of fabrication parts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Centre for Environmental Sustainability</p>
+<p>Centre for Environmental Sustainability (CfES)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maung Tin Win
