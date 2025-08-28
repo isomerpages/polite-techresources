@@ -39,7 +39,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>UAG-IC Universal Tester(Shimadzu)</p>
+<p>UAG-IC Universal Tester (Shimadzu)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>100kN Tensile Tester</p>
@@ -61,7 +61,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Q400 TMA&nbsp; (TA)</p>
+<p>Q400 TMA&nbsp;(TA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thermo Mechanical Analyser</p>
@@ -153,7 +153,7 @@ die shear</p>
 <p>EDDY CURRENT ELECTRICAL CONDUCTIVITY METER (FOERSTER)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Electrical conductivity meter for non ferrous metal</p>
+<p>Electrical conductivity meter for non-ferrous metal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Electrical conductivity meter</p>
