@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2.png
+      background: /images/3.png
       variant: center
       title: POLITE Tech Resources
       subtitle: Empowering Education with Cutting-Edge Technology
