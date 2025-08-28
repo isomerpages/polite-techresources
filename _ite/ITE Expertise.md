@@ -36,7 +36,7 @@ metallurgy and microstructural investigation, Mechanical and thermal properties,
 failure analysis, Processing-structure-property relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>metallurgy,&nbsp;polymer formulation, metal processing</p>
+<p>Metallurgy,&nbsp;polymer formulation, metal processing</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ failure analysis, Processing-structure-property relationship.</p>
 solutions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>customised robotics for unstructured environment</p>
+<p>Customised robotics for unstructured environment</p>
 </td>
 </tr>
 <tr>
