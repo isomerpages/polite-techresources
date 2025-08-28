@@ -4,9 +4,8 @@ permalink: /ite-expertise/
 variant: tiptap
 description: ""
 ---
-<p>For general enquiries, contact:</p>
-<p>Technology Development Centre (TDC)</p>
-<p><a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
+<p>For general enquiries, contact: Technology Development Centre (TDC) at
+<a href="mailto:cc_tdc@ite.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cc_tdc@ite.edu.sg</a>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
