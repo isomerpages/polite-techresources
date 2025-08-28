@@ -21,7 +21,7 @@ description: ""
 <p>Description</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Location</p>
+<p>Dept</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Contact</p>
