@@ -4,7 +4,7 @@ permalink: /tp-equipment/
 variant: tiptap
 description: ""
 ---
-<p>Contact Staff: Teow Yiwei, Office: 6780 4263, Email: <a href="mailto:teow_yiwei@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_yiwei@tp.edu.sg</a>
+<p>Contact: Teow Yiwei, 6780 4263, Email: <a href="mailto:teow_yiwei@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teow_yiwei@tp.edu.sg</a>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
