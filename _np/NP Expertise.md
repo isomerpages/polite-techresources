@@ -39,7 +39,7 @@ description: ""
 <p>Reversed heat pump</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Yip Teck Hong
@@ -58,7 +58,7 @@ description: ""
 <p>LabVIEW application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Alex See
@@ -77,7 +77,7 @@ description: ""
 <p>Microgrid and smart grid technologies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhu Taixiu
@@ -96,7 +96,7 @@ description: ""
 <p>Battery energy storage system for EV fast charging station</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Zhu Taixiu
@@ -119,7 +119,7 @@ cleaning processes, etc. Most projects centred on problems statement on
 product processes that are industrial by nature.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Meng Lieh, Nelson
@@ -140,7 +140,7 @@ and algorithm&nbsp; for&nbsp; biomedical application. We also develop diagnostic
 application leveraging on AI algorithm&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School of Engineering(SOE)</p>
+<p>School of Engineering (SOE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chua Kuang Chua
