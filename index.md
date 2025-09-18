@@ -29,12 +29,14 @@ sections:
       linktext: Learn more
       infoboxes:
         - title: Step 1
-          description: To begin your search, click the magnifying glass or menu icon at
-            the top right corner.
+          description: To begin your search, click the magnifying glass at the top right
+            corner.
         - title: Step 2
           description: Enter specific keywords. Use quotation marks (" ") around required
             words to refine your search.
         - title: Step 3
           description: Browse and select the Tech Resource you’re interested in for more
             details.
+        - title: Step 4
+          description: Use Ctrl + F to locate exact line of information.
 ---
