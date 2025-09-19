@@ -38,5 +38,6 @@ sections:
           description: Browse and select the Tech Resource you’re interested in for more
             details.
         - title: Step 4
-          description: Use Ctrl + F to locate exact line of information.
+          description: Use Ctrl + F (Windows) or Cmd + F (Mac) to locate exact line of
+            information.
 ---
